@@ -105,3 +105,11 @@ wp-content/mu-plugins*/limit-login-attempts
 *.wmv$
 *.avi$
 
+assets
+assets/*
+
+wp-content/plugins/flipbook-plugin/data/mobile/style/raw/flipsound.mp3
+assets/flipbook/1/mobile/style/raw/flipsound.ogg
+wp-content/plugins/flipbook-plugin/data/mobile/style/raw/flipsound.ogg
+
+
