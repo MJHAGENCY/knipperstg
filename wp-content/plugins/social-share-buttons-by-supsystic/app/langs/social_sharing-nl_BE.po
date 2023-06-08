@@ -1,0 +1,1368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Sharing\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Wilfried Mestdagh <wilfried@mestdagh.biz>\n"
+"Language-Team: Michael Coenradi <michael@coenradi.net>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "1. At first, you need to install Popup by Supsystic plugin."
+msgstr "1. Eerst moet je Popup door Supsystic plugin installeren."
+
+msgid "1. Download Social Share Buttons by Supsystic plugin."
+msgstr "1. Download het pakket"
+
+#| msgid "1. On the left navigation menu click âAdd new projectâ."
+msgid "1. On the left navigation menu click “Add new project”."
+msgstr "1. Klik \"Nieuw project\" in de linker menu"
+
+#| msgid "2. Enter the title of project and click âCreateâ."
+msgid "2. Enter the title of project and click “Create”."
+msgstr "2. Voer de titel van het project in en klik \"Aanmaken\""
+
+msgid ""
+"2. Then come back to the Social Share Buttons plugin and create new project."
+msgstr ""
+"2. Kom dan terug naar de Sociale Share knoppen plugin en cre�er een nieuw "
+"project."
+
+msgid "2. Upload to your WordPress plugins directory."
+msgstr "2. Upload het pakket naar uw WordPress plugins folder."
+
+msgid "3. Activate and enjoy."
+msgstr "3. Activeer de plugin en geniet ervan!"
+
+#| msgid ""
+#| "3. Go to âWhere to showâ section, find âPopupâ radio button "
+#| "and activate it."
+msgid ""
+"3. Go to “Where to show” section, find “Popup” radio button and activate it."
+msgstr ""
+"3. Ga naar de sectie \"waar weergeven\", en selecteer de nodige radio "
+"knoppen."
+
+#| msgid ""
+#| "4. Customize the other settings. Donât forget to click âSaveâ "
+#| "button."
+msgid "4. Customize the other settings. Don’t forget to click “Save” button."
+msgstr ""
+"4. Personaliseer de andere instellingen. Vergeet niet te klikken op de "
+"\"bewaar\" knop."
+
+msgid ""
+"5. Popup plugin will automatically create the popup window with buttons."
+msgstr "5. Popup plugin zal automatisch het pop-up venster met knoppen maken."
+
+msgid "Above + Below Content"
+msgstr "Boven en onder de inhoud"
+
+msgid "Above Content"
+msgstr "Boven de inhoud"
+
+msgid "Actions"
+msgstr "Wissen"
+
+msgid "Activate"
+msgstr "Activeer"
+
+msgid "Activate License"
+msgstr "Activeer Licentie"
+
+msgid "Add Networks"
+msgstr "Netwerk toevoegen"
+
+msgid "Add Project"
+msgstr "Project toevoegen"
+
+msgid "Add button spacing"
+msgstr "Knopruimte toevoegen"
+
+msgid "Add new"
+msgstr "Nieuw toevoegen"
+
+msgid "Add new project"
+msgstr "Nieuw project"
+
+msgid "Add or remove social networks."
+msgstr "Sociale netwerken toevoegen of verwijderen"
+
+#| msgid "Show Social Buttons when page loads"
+msgid "Add your Social Buttons - to Google Maps"
+msgstr "Voeg je Sociale knoppen toe in Google Maps."
+
+msgid "Additional buttons styles"
+msgstr "Optionele stijlen"
+
+msgid "Adds buttons to the selected side of the page."
+msgstr "Voegt knoppen toe aan de geselecteerde zijkant van de pagina"
+
+msgid "Adds overlay with shadow for buttons %s"
+msgstr "Voegt overlay toe met schaduw voor knoppen %s"
+
+msgid "Adds space between the buttons %s"
+msgstr "Voegt ruimte toe aan de knoppen %s"
+
+msgid "Adds space between the buttons."
+msgstr "Voegt ruimte toe tussen de knoppen."
+
+msgid "After you create the project – go to “Where to show” section."
+msgstr "Na het aanmaken van het project, ga naar de \"Waar weergeven\" sectie."
+
+msgid "Align buttons on content page:"
+msgstr "Uitlijnen knoppen aan de inhoud van de pagina:"
+
+msgid "All news"
+msgstr "Alle nieuws"
+
+#| msgid "All posts"
+msgid "All other FAQs"
+msgstr "Alle andere veel gestelde vragen."
+
+msgid "All pages"
+msgstr "Alle pagina's"
+
+#| msgid "All posts"
+msgid "All post type"
+msgstr "All soorten berichten"
+
+msgid "All posts"
+msgstr "Alle berichten"
+
+msgid "Allows user to display all networks in popup"
+msgstr "Hiermee kan de gebruiker alle netwerken in een popup tonen"
+
+msgid "Allows you to insert project shortcode and show buttons where you want."
+msgstr ""
+"Geeft je de mogelijkheid om een shortcode te gebruiken om de knoppen weer te "
+"geven op de plaats waar je dat wenst."
+
+msgid ""
+"Allows you to lock content elements by class name before user shares this "
+"page with any network"
+msgstr ""
+"Hiermee kunt u elementen per klasse naam vergrendelen voordat een gebruiker "
+"deze pagina kan delen met een netwerk"
+
+msgid "An error has occurred"
+msgstr "Er is een fout opgetreden"
+
+msgid "Available in PRO"
+msgstr "Beschikbaar in PRO"
+
+msgid "Bacground color"
+msgstr "Achtergrondkleur"
+
+msgid "Background opacity"
+msgstr "Achtergrond transparantie"
+
+msgid "Backup Plugin"
+msgstr "Backup plugin"
+
+msgid ""
+"Backup and Restore WordPress Plugin by Supsystic provides quick and "
+"unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress "
+"website."
+msgstr ""
+"Backup en Restore WordPress plugin van Supsystic biedt backup op DropBox, "
+"FTP, Amazon S3, Google Drive voor je WordPress website."
+
+msgid ""
+"Be closer to your visitors and customers with Live Chat Support by "
+"Supsystic. Help you visitors, support them in real-time with exceptional "
+"Live Chat WordPress plugin by Supsystic."
+msgstr ""
+"Beter contact met je klanten en bezoekers met Live Chat Support van "
+"Supsystic. Je kan service geven in real-time met de exceptionele Live Chat "
+"WordPress plugin van Supsystic."
+
+msgid "Below Content"
+msgstr "Onder de inhoud"
+
+msgid "Big"
+msgstr "Groot"
+
+msgid "Biggest"
+msgstr "Extra groot"
+
+#| msgid "Bacground color"
+msgid "Border color"
+msgstr "Kleur van de rand"
+
+msgid "Bordered"
+msgstr "Randen"
+
+msgid "Bottom"
+msgstr "Beneden"
+
+msgid ""
+"But sometimes some issues happened or you can’t find feature you want :)"
+msgstr "Maar soms gebeurt er iets of je kan de juiste functie niet vinden :)"
+
+msgid "Button Text"
+msgstr "Knop tekst"
+
+#| msgid "Bacground color"
+msgid "Button background color"
+msgstr "Achtergrondkleur"
+
+msgid "Button border radius"
+msgstr "Knop straal rand"
+
+#| msgid "Counter style"
+msgid "Button border style"
+msgstr "Stijl van de rand"
+
+#| msgid "Button Text"
+msgid "Button border width"
+msgstr "Breedte van de rand"
+
+msgid "Button horizontal margin"
+msgstr "Knop horizontale spatie"
+
+#| msgid "Bacground color"
+msgid "Button icon color"
+msgstr "Kleur van het icoon"
+
+#| msgid "Button Text"
+msgid "Button parameters"
+msgstr "Knop instellingen"
+
+#| msgid "Buttons animation"
+msgid "Button transparency"
+msgstr "Knop transparantie"
+
+#| msgid "Buttons animation"
+msgid "Button vertical margin"
+msgstr "Knop verticale marge"
+
+#| msgid "Button Text"
+msgid "Button width"
+msgstr "Knop breedte"
+
+msgid "Button width tooltip"
+msgstr "Knop met tooltip"
+
+msgid "Buttons Design"
+msgstr "Ontwerp"
+
+msgid "Buttons animation"
+msgstr "Knop animatie"
+
+#| msgid "Buttons animation"
+msgid "Buttons customization"
+msgstr "Extra opties"
+
+msgid "Buttons size"
+msgstr "Knop grootte"
+
+msgid "Buttons will appear at the post or page content."
+msgstr "Knoppen worden weergegeven in de inhoud van bericht of pagina."
+
+msgid "Center"
+msgstr "Centreer"
+
+msgid "Change size"
+msgstr "Grootte aanpassen"
+
+msgid "Change size for buttons %s"
+msgstr "Verander grootte voor knoppen %s"
+
+msgid "Check all FAQs"
+msgstr "FAQ"
+
+msgid "Choose Animation"
+msgstr "Kies animatie"
+
+msgid "Choose Buttons Design. You can change it later."
+msgstr "Kies het design, je kan dit later nog wijzigen."
+
+msgid "Choose Template"
+msgstr "Kies sjabloon"
+
+#| msgid "Please, select button design"
+msgid "Choose button design"
+msgstr "Kies knop weergave"
+
+msgid ""
+"Choose buttons design and set buttons parameters. Like counters, spacing, "
+"size and more."
+msgstr "Kies weergave knoppen en stel tellers, spatie, grootte en nog meer in."
+
+#| msgid ""
+#| "Choose from what exactly to count the shares â the all projects, the "
+#| "entire project, the each page."
+msgid ""
+"Choose from what exactly to count the shares – the all projects, the entire "
+"project, the each page."
+msgstr ""
+"Kies hoe de telling moet gebeuren, het kan voor alle projecten, voor dit "
+"project of voor elke pagina apart."
+
+msgid "Choose needed border type"
+msgstr "Kies de soort rand dat je nodig hebt"
+
+msgid ""
+"Choose one of the button design and create the project. You can change "
+"design later and buttons settings on the next step."
+msgstr ""
+"Kies ��n van de knop weergaven en maak het project. Je kan de weergave en "
+"knop parameters wijzigen in de volgende stap."
+
+#| msgid ""
+#| "Choose pages on which you want to show popup. You can choose \"All Pages"
+#| "\" or specify posts, pages or URLs"
+msgid ""
+"Choose pages you want to hide buttons. You can choose \"All Pages\" or "
+"specify posts, pages"
+msgstr ""
+"Kies pagina's waarop je de knoppen niet wilt laten zien of kies \"alle "
+"pagina's\" of specificeer berichten."
+
+#| msgid ""
+#| "Choose pages on which you want to show popup. You can choose \"All Pages"
+#| "\" or specify posts, pages or URLs"
+msgid ""
+"Choose pages you want to show buttons. You can choose \"All Pages\" or "
+"specify posts, pages or URLs"
+msgstr ""
+"Kies pagina's waarop je de knoppen wilt laten zien of \"alle pagina's\" of "
+"berichten."
+
+msgid ""
+"Choose several social networks for the project. You can add new social "
+"networks or remove selected on the next step."
+msgstr ""
+"Kies de verschillende sociale netwerken voor het project. Je kan nieuwe "
+"netwerken maken of netwerken verwijderen in de volgende stap."
+
+#| msgid "Show all networks"
+msgid "Choose social networks"
+msgstr "Kies sociale netwerken"
+
+msgid ""
+"Choose the size for social buttons. This option allows you to accent the "
+"attention for as much as you want %s"
+msgstr ""
+"Kies de grootte van sociale knoppen. Met deze optie kunt u de aandacht "
+"accentueren zoals je wenst %s"
+
+msgid ""
+"Choose the size for social buttons. This option allows you to accent the "
+"attention for as much as you want it."
+msgstr ""
+"Kies de grootte van sociale knoppen. Met deze optie kunt u de aandacht "
+"accentueren zoals je wenst."
+
+msgid "Choose this option if you don't want to display icons on mobile devices"
+msgstr ""
+"Kies deze optie als u niet wilt dat pictogrammen op mobiele apparaten worden "
+"weergegeven"
+
+#| msgid ""
+#| "Choose this option if you don't want to display icons on mobile devices"
+msgid "Choose this option if you want to display icons only on mobile devices"
+msgstr ""
+"Kies deze optie als je de knoppen alleen op mobiele apparaten wilt laten "
+"zien."
+
+#| msgid "Change size for buttons %s"
+msgid "Choose transparency for buttons"
+msgstr "Kies de transparantie voor de knoppen"
+
+msgid "Click to rename project and hit [Enter]"
+msgstr "Klik om de projectnaam te wijzigen en bevestig met [Enter]"
+
+msgid "Clone"
+msgstr "Kopiëren"
+
+msgid "Close"
+msgstr "Afsluiten"
+
+msgid "Coming Soon Plugin"
+msgstr "Binnenkort"
+
+msgid ""
+"Coming soon page with drag-and-drop builder or under construction | "
+"maintenance mode to notify visitors and collects emails."
+msgstr ""
+"Binnenkort een pagina met drag en drop builder of onder constructie | "
+"onderhoudsmode om bezoekers te verwittigen en emails te bewaren."
+
+msgid "Congratulations!"
+msgstr "Proficiat!"
+
+msgid ""
+"Congratulations! You have successfully installed PRO version of the plugin. "
+"Final step to finish Your PRO version setup - is to enter your Email and "
+"License Key on this page. This will activate Your copy of software on this "
+"site."
+msgstr ""
+"Proficiat! De Pro versie is succesvol ge�nstalleerd. Om het succesvol af te "
+"ronden dient u uw Mailadres en licentiecode in te vullen op deze pagina. Dat "
+"zal uw licentie op deze website activeren."
+
+msgid ""
+"Congratulations! You have successfully installed and activated PRO version "
+"of the plugin."
+msgstr ""
+"Proficiat! U heeft succesvol de PRO versie van deze plugin ge�nstalleerd en "
+"geactiveerd."
+
+msgid "Contact Form"
+msgstr "Contactformulier"
+
+#| msgid "Contact Form"
+msgid "Contact Form Plugin"
+msgstr "Contactformulier plugin"
+
+msgid "Content"
+msgstr "Inhoud"
+
+msgid "Content Lock Element Class"
+msgstr "Vergrendel Element Class"
+
+msgid "Content lock settings"
+msgstr "Instellingen content vergrendeling"
+
+msgid "Counter style"
+msgstr "Teller stijl"
+
+msgid "Create"
+msgstr "Aanmaken"
+
+msgid "Create Date"
+msgstr "Aanmaak datum"
+
+msgid ""
+"Create and manage beautiful data tables with custom design. No HTML "
+"knowledge is required."
+msgstr ""
+"Maak mooie datatabellen in je eigen design. Geen kennis van HTML nodig."
+
+#| msgid "Add new project"
+msgid "Create new project."
+msgstr "Nieuw project toevoegen"
+
+msgid ""
+"Create online membership community with custom user profiles, roles, "
+"FrontEnd registration and login. Members Directory, activity, groups, "
+"messages."
+msgstr ""
+"Maak online registratie met je eigen ontwerp, regels, frontend, registratie "
+"en login. Gebruikersfolder, activiteit, groepen, berichten."
+
+msgid ""
+"Creates a widget of the current project at Appearance > Widgets and allows "
+"you to use project at theme's widgets areas."
+msgstr "Maakt een widget van het huidige project."
+
+msgid ""
+"Creating slideshows with Slider plugin is fast and easy. Simply select "
+"images from your WordPress Media Library, Flickr, Instagram or Facebook, set "
+"slide captions, links and SEO fields all from one page."
+msgstr ""
+"Maak een diashow met Slider plugin - snel en gemakkelijk. Simpelweg foto's "
+"selecteren vanuit media bibliotheek, Flicker, Instagram of Facebook, vul de "
+"tekst in, de links en SEO velden vanuit ��n pagina."
+
+#| msgid ""
+#| "Currently you haven't any popups. <a style=\"display: inline-block; text-"
+#| "decoration: none !important; padding-left: 5px; padding-right: 5px; "
+#| "margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Create "
+#| "your first PopUp</a> and then just return to this page and select PopUp "
+#| "here."
+msgid ""
+"Currently you haven't any maps. <a style=\"display: inline-block; text-"
+"decoration: none !important; margin: 0; border: none !important;\" href=\"%s"
+"\" target=\"_blank\" class=\"ui-button\">Create your first Map</a> and then "
+"just return to this page and select Map here."
+msgstr ""
+"Je hebt momenteel geen maps. <a style=\"display: inline-block; text-"
+"decoration: none !important; padding-left: 5px; padding-right: 5px; margin: "
+"0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Maak nu je eerste "
+"map</a> keer dan terug naar deze pagina en selecteer de map hier."
+
+#| msgid ""
+#| "Currently you haven't any popups. <a style=\"display: inline-block; text-"
+#| "decoration: none !important; padding-left: 5px; padding-right: 5px; "
+#| "margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Create "
+#| "your first PopUp</a> and then just return to this page and select PopUp "
+#| "here."
+msgid ""
+"Currently you haven't any popups. <a style=\"display: inline-block; text-"
+"decoration: none !important; margin: 0; border: none !important;\" href=\"%s"
+"\" target=\"_blank\" class=\"ui-button\">Create your first PopUp</a> and "
+"then just return to this page and select PopUp here."
+msgstr ""
+"Je hebt momenteel geen pop-ups. <a style=\"display: inline-block; text-"
+"decoration: none !important; padding-left: 5px; padding-right: 5px; margin: "
+"0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Maak je eerste pop-"
+"up</a> keer dan terug naar deze pagina en selecteer popup hier."
+
+msgid "Currently you haven't any projects"
+msgstr "Momenteel heb je geen projecten"
+
+msgid "Custom text"
+msgstr "Eigen tekst"
+
+msgid "Customize"
+msgstr "Bewerken"
+
+#| msgid ""
+#| "4. Customize the other settings. Donât forget to click âSaveâ "
+#| "button."
+msgid "Customize the other options. Don’t forget to click “Save” button."
+msgstr ""
+"Stel de andere opties in. Vergeet niet te klikken op de \"Bewaar\" knop."
+
+#| msgid ""
+#| "4. Customize the other settings. Donât forget to click âSaveâ "
+#| "button."
+msgid "Customize the other settings. Don’t forget to click “Save” button."
+msgstr ""
+"Stel de andere settings in. Vergeet niet te klikken op de \"Bewaar\" knop."
+
+msgid "Data Tables Generator"
+msgstr "Generator voor datatabellen"
+
+msgid "Default message"
+msgstr "Standaard bericht"
+
+#| msgid "How to use Social Share Buttons plugin?"
+msgid "Define border color for Social Share Buttons"
+msgstr "Stel de randkleur van de Social Share knoppen in"
+
+msgid "Define size of the button letters in pixels"
+msgstr "Definieer de grootte van de letters in pixels"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Design"
+msgstr "Ontwerp"
+
+msgid "Digital Publication Plugin"
+msgstr "Digitale Publicatie Plugin"
+
+msgid ""
+"Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, "
+"Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+"Digitale Publicatie Wordpress plugin door Supsystic, voor magazines, "
+"catalogen, portfolios. Converteer foto's, posts, PDF naar de pagina van het "
+"flip boek."
+
+msgid "Disable"
+msgstr "Uit"
+
+msgid "Display counters"
+msgstr "Tellers weergeven"
+
+msgid ""
+"Display custom Google Maps. Set markers and locations with text, images, "
+"categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+"Maak je eigen Google kaarten. Zet markers en locaties met tekst, foto's, "
+"categorie�n en links. De eigen Google map ontwerpen is simpel en intu�tief."
+
+#| msgid "Display counters"
+msgid "Display total counter"
+msgstr "Totaal teller weergeven"
+
+msgid "Displays counters of social shares on buttons %s"
+msgstr "Geeft tellers weer op de knoppen %s"
+
+msgid "Displays counters of social shares on buttons."
+msgstr "Geeft tellers weer op de knoppen."
+
+msgid "Displays counters styles of social shares on buttons %s"
+msgstr "Geeft tellers stijlen van de sociale delen op knoppen %s"
+
+msgid "Distance between buttons and screen side horizontally in pixels"
+msgstr "Horizontale afstand tussen de knoppen en zijkant scherm in pixels"
+
+msgid "Distance between buttons and screen side vertically in pixels"
+msgstr "Verticale afstand tussen knoppen en rand scherm in pixels"
+
+#| msgid "Show on next posts / pages"
+msgid "Don't show on next pages / posts"
+msgstr "Niet weergeven op de volgende pagina's"
+
+msgid "Don’t worry, just "
+msgstr "Maak je niet ongerust, alleen"
+
+msgid ""
+"Each project is the way to set social button in some place. For example you "
+"can create one project with buttons in the website content and the second "
+"project with the buttons in the sidebar."
+msgstr ""
+"In ieder project zet je de manier waarop, waar en wanneer de knoppen moeten "
+"verschijnen. Je kan bijvoorbeeld een project maken met knoppen in de website "
+"content en een ander project met knoppen in een sidebar."
+
+msgid "Edit"
+msgstr "Bewerk"
+
+msgid "Edit project"
+msgstr "Bewerk project"
+
+msgid "Effects"
+msgstr "Effecten"
+
+msgid "Element class"
+msgstr "Element class"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Enable"
+msgstr "Aan"
+
+msgid "Enable / Disable statistics"
+msgstr "In- en uitschakelen statistieken"
+
+msgid "Enable Content Lock"
+msgstr "Activeer Content Vergrendeling"
+
+#| msgid "Sidebar customization"
+msgid "Enable button customization"
+msgstr "Activeer personaliseren van knoppen"
+
+msgid "Enable gradient mode"
+msgstr "Gradi�nt inschakelen"
+
+msgid "Enter project name"
+msgstr "Voer een projectnaam in"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Establish pixels quantity for width of the border"
+msgstr "De hoeveelheid pixels voor de breedte van de rand"
+
+msgid "Failed to execute query: %s"
+msgstr "Uitvoeren van opdracht mislukt \"%s\" mislukt"
+
+msgid "Featured Plugins"
+msgstr "Aanbevolen plugins"
+
+msgid "Find “Widget” radio button and activate it."
+msgstr "Zoek Widget's radioknop en activeer."
+
+msgid "Flat"
+msgstr "Vlak"
+
+msgid "Font color"
+msgstr "Tekstkleur"
+
+msgid "Frequently Asked Questions"
+msgstr "Veel gestelde vragen"
+
+msgid "Get PRO"
+msgstr "Neem PRO"
+
+msgid "Get Pro"
+msgstr "Neem PRO"
+
+#| msgid ""
+#| "3. Go to âWhere to showâ section, find âPopupâ radio button "
+#| "and activate it."
+msgid ""
+"Go to “Main” tab -> “Where to show” section, find “Popup” radio button and "
+"activate it."
+msgstr ""
+"Ga naar \"Algemeen\" tab -> \"Waar zichtbaar\" sectie, en activeer de nodige "
+"radio buttons."
+
+msgid "Google Maps"
+msgstr "Google Maps"
+
+msgid "Google Maps Easy"
+msgstr "Google Maps Easy"
+
+msgid ""
+"Gradient mode creates smooth transitions from the one color to another %s"
+msgstr ""
+"Gradi�nt modus zorgt voor vloeiende overgangen van de ene naar de andere "
+"kleur %s"
+
+msgid "Here find your social share project and add to widget area."
+msgstr "Zoek je social share project en voeg de plaats toe voor de widget."
+
+#| msgid "Hide on mobile devices"
+msgid "Hide on home page"
+msgstr "Verbergen op home"
+
+msgid "Hide on mobile devices"
+msgstr "Verbergen op mobiele apparaten"
+
+msgid "Homepage only"
+msgstr "Alleen op home"
+
+msgid "Hope it will be usefull for you :)"
+msgstr "Hopelijk is dit goed bruikbaar voor jou :)"
+
+msgid "How to Create Social Share Buttons in WordPress"
+msgstr "Hoe je Sociale Share knoppen in WordPress maakt"
+
+msgid "How to show Social Buttons in Popup?"
+msgstr "Sociale knoppen in een popup weergeven"
+
+#| msgid "How to use Social Share Buttons plugin?"
+msgid "How to use Social Share Buttons Widget?"
+msgstr "Hoe Sociale Share plugin knoppen widget gebruiken?"
+
+msgid "How to use Social Share Buttons plugin?"
+msgstr "Gebruik en instellingen"
+
+msgid "ID is not specified."
+msgstr "ID is niet opgegeven"
+
+msgid "Icon font size"
+msgstr "Icon grootte lettertype"
+
+msgid "Icons animation"
+msgstr "Icon animatie"
+
+msgid "Image"
+msgstr "Foto"
+
+#| msgid "Content lock settings"
+msgid "In the main settings:"
+msgstr "In de algemene instellingen:"
+
+msgid "Increase social traffic and popularity with Social Share Buttons."
+msgstr "Vergroot sociaal verkeer en populariteit met Social Share Buttons."
+
+msgid ""
+"It’s never been so easy to create and manage pricing and comparison tables "
+"with table builder. Any element of the table can be customise with mouse "
+"click."
+msgstr ""
+"Het is nog nooit zo eenvoudig geweest om prijzen te beheren en te "
+"vergelijken met Table Builder. Ieder element van de tabel kan "
+"gepersonaliseerd worden met een muis klik."
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Let's Start!"
+msgstr "Laten we beginnen!"
+
+msgid "License"
+msgstr "Licentie"
+
+msgid "Likes / Shares"
+msgstr "Likes / Shares"
+
+msgid "Live Chat Plugin"
+msgstr "Live Chat Plugin"
+
+msgid "Livejournal"
+msgstr "Live rapport"
+
+msgid "Main"
+msgstr "Algemeen"
+
+#| msgid "Settings"
+msgid "Main settings"
+msgstr "Algemene instellingen"
+
+msgid "Membership by Supsystic"
+msgstr "Lidmaatschap bij Supsystic"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "More detail information you can find here"
+msgstr "Meer informatie vind je hier"
+
+msgid "Most popular pages for last 30 days"
+msgstr "Meest populaire pagina's de laatste 30 dagen"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Network total shares"
+msgstr "Netwerk totale shares"
+
+msgid "Networks to show"
+msgstr "Weergegeven netwerken"
+
+msgid "News"
+msgstr "Nieuws"
+
+msgid "Newsletter Plugin"
+msgstr "Nieuwsbrief Plugin"
+
+msgid "Next Step"
+msgstr "Volgende stap"
+
+msgid "Next step"
+msgstr "Volgende stap"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid ""
+"Now you can use this project in any Photo Gallery. Check Photo Gallery "
+"setting for details."
+msgstr ""
+"Nu kan je dit project gebruiken in een foto galerij. Check instellingen "
+"fotogalerij voor details."
+
+msgid ""
+"Now you can use this project in any Popup. Check Popup setting for details."
+msgstr ""
+"Nu kan je dit project gebruiken in een popup. Controleer instellingen popup "
+"voor details."
+
+msgid ""
+"Now you can use this project in any Slider. Check Slider setting for details."
+msgstr ""
+"Nu kan je dit project gebruiken in een slider. Check instellingen slider "
+"voor details."
+
+msgid "On the left wordpress navigation menu go to Appearance -> Widgets."
+msgstr "In het linker Wordpress navigatiemenu, ga naar Weergave -> Widgets"
+
+msgid ""
+"One more advantage of Social Share WordPress Plugin is an easy installation. "
+"To install it, you should make three following steps:"
+msgstr ""
+"Een van de grote voordelen van Sociale Share WordPress Plugin is de "
+"eenvoudige installatie. Om te installeren, doe je de volgende drie stappen:"
+
+msgid ""
+"One of the best plugin for creating Contact Forms on your WordPress site. "
+"Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+"Een van de beste plugins om contactforms te maken in je Wordpress site. "
+"Alles is instelbaar zoals lettertype, achtergrond, toevoegen persoonlijke "
+"velden."
+
+#| msgid "Actions"
+msgid "Options"
+msgstr "Opties"
+
+msgid "Order by can be %s, \"%s\" given."
+msgstr "Sortering kan door %s, \"%s\" gegeven."
+
+msgid "Other"
+msgstr "Ander"
+
+msgid "Overlay with shadow"
+msgstr "Overlay met schaduw"
+
+msgid "Overview"
+msgstr "Overzicht"
+
+msgid "Pages"
+msgstr "Pagina's"
+
+msgid "Photo Gallery"
+msgstr "Fotogalerij"
+
+msgid "Photo Gallery Plugin"
+msgstr "Fotogalerij plugin"
+
+msgid ""
+"Photo Gallery Plugin with a great number of layouts will help you to create "
+"quality respectable portfolios and image galleries."
+msgstr ""
+"Fotogalerij plugin met een groot aantal lay-outs om professionele "
+"portfolio's en fotogalerijen te maken."
+
+msgid "Please, select button design"
+msgstr "Kies een knopweergave"
+
+msgid "Please, set project name!"
+msgstr "Voer een projectnaam in"
+
+msgid "Plugin options"
+msgstr "Plugin instellingen"
+
+msgid "Popup"
+msgstr "Pop-up"
+
+msgid "Popup Plugin"
+msgstr "Popup plugin"
+
+#| msgid ""
+#| "5. Popup plugin will automatically create the popup window with buttons."
+msgid "Popup plugin will automatically create the popup window with buttons."
+msgstr "Popup plugin zal automatisch het pop-up venster met knoppen maken."
+
+msgid "Post type"
+msgstr "Bericht type"
+
+msgid "Posts"
+msgstr "Berichten"
+
+msgid "Preview"
+msgstr "Voorbeeld"
+
+msgid "Pricing Table"
+msgstr "Prijstabel"
+
+msgid "Pro designs"
+msgstr "PRO thema's"
+
+msgid "Profile name"
+msgstr "Profielnaam"
+
+msgid "Project \"%s\" statistics"
+msgstr "Project \"%s\" statistieken"
+
+msgid "Project Name:"
+msgstr "Project naam:"
+
+msgid "Project Title"
+msgstr "Project titel"
+
+msgid "Project not found"
+msgstr "Project niet gevonden"
+
+msgid "Project title"
+msgstr "Project titel"
+
+msgid "Projects"
+msgstr "Projecten"
+
+msgid "Projects total views"
+msgstr "Totale project views"
+
+msgid "Renew License"
+msgstr "Verleng licentie"
+
+msgid "Report a bug"
+msgstr "Een fout melden"
+
+msgid "Require a new functionallity"
+msgstr "Nieuwe functionaliteit aanvragen"
+
+msgid "Return to the project"
+msgstr "Ga terug naar het project"
+
+msgid "Return to the project \"%s\""
+msgstr "Ga terug naar project \"%s\""
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid ""
+"Rounds up big numbers of counters and displays the short numbers. Available "
+"only with enabled \"Display counters\" option."
+msgstr ""
+"Afronden naar grote getallen en toont de korte nummers. Alleen beschikbaar "
+"bij ingeschakelde \"tellers\" optie."
+
+msgid ""
+"Rounds up big numbers of counters and displays the short numbers. Available "
+"only with enabled \\\"Display counters\\\" option %s"
+msgstr ""
+"Rondt grote aantallen tellers en toont de korte nummers. Alleen beschikbaar "
+"bij ingeschakelde \"Weergave tellers\" optie %s"
+
+msgid "Save"
+msgstr "Bewaar"
+
+msgid "Saving networks sort order..."
+msgstr "Netwerk sorteervolgorde bewaren..."
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "Select All"
+msgstr "Selecteer alles"
+
+msgid "Select design"
+msgstr "Selecteer design"
+
+#| msgid "Select"
+msgid "Select map"
+msgstr "Selecteer map"
+
+msgid "Select network"
+msgstr "Selecteer netwerk"
+
+msgid "Select network. You can change Social Networks later"
+msgstr "Selecteer de netwerken. Je kan dit later nog wijzigen"
+
+msgid "Select popup"
+msgstr "Selecteer Pop-up"
+
+msgid "Selected"
+msgstr "Geselecteerd"
+
+msgid ""
+"Selected button set is unavailable for the project \"%s\", \"Flat 1\" will "
+"be used."
+msgstr ""
+"Geselecteerde knop set is niet beschikbaar voor het project \"% s\", \"Flat "
+"1\" zal worden gebruikt."
+
+msgid "Send email"
+msgstr "Verstuur"
+
+msgid "Server Settings"
+msgstr "Server instellingen"
+
+msgid "Set color for button icons"
+msgstr "Stel de kleur in voor knop iconen"
+
+msgid "Set color for buttons background"
+msgstr "Stel kleur in voor knoppen achtergrond"
+
+msgid "Set pixels to round border corners"
+msgstr "Stel pixel in om rand knoppen af te ronden"
+
+msgid ""
+"Set showing parameters. On which pages and URLs you would like to show "
+"buttons, when you would like to show them."
+msgstr ""
+"Stel in op welke pagina's en URL's je de knoppen wil laten zien en wanneer."
+
+msgid ""
+"Set social network placement. For each project you can setup one placement "
+"to show. If you want to show social buttons in the different places, you can "
+"create several project for each place. For example, you can create one "
+"project for the <a href=\"//supsystic.com/plugins/social-share-plugin/\" "
+"target=\"_blank\">Left Sidebar</a> placement, second project for the <a href="
+"\"//supsystic.com/plugins/social-share-plugin/\" target=\"_blank\">Content</"
+"a> placement and third for the <a href=\"//supsystic.com/plugins/social-"
+"share-plugin/\" target=\"_blank\">Widget</a> placement"
+msgstr ""
+"Stel de plaats in van de netwerk knoppen. Voor ieder project kan je een "
+"aparte plaats voorzien. Als je de sociale knoppen in verschillende plaatsen "
+"wil zien navenant de pagina's of berichten, kan je verschillende projecten "
+"aanmaken met verschillende plaatsen. Bijvoorbeeld je kan een project maken "
+"voor de <a href=\"//supsystic.com/plugins/social-share-plugin/\" target="
+"\"_blank\">linker sidebar</a> plaats, een tweede project voor de <a href=\"//"
+"supsystic.com/plugins/social-share-plugin/\" target=\"_blank\">content</a> "
+"plaats en een derde voor de  <a href=\"//supsystic.com/plugins/social-share-"
+"plugin/\" target=\"_blank\">Widget</a> plaats"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Share"
+msgstr "Deel"
+
+#| msgid "Share"
+msgid "Share on "
+msgstr "Deel in"
+
+msgid "Share only post link"
+msgstr "Deel alleen bericht link"
+
+msgid "Share post link even if post is in the list"
+msgstr "Deel bericht link ook als het bericht in de lijst is"
+
+msgid "Shares"
+msgstr "Shares"
+
+msgid "Short url"
+msgstr "Korte URL"
+
+msgid "Shortcode or PHP code"
+msgstr "Shortcode of PHP code"
+
+#| msgid "Hide on mobile devices"
+msgid "Show Only on Mobile Devices"
+msgstr "Alleen zichtbaar op mobiele apparaten"
+
+msgid "Show Social Buttons when page loads"
+msgstr "Social Buttons weergeven wanneer de pagina wordt geladen"
+
+msgid "Show Social Buttons when user clicks on page"
+msgstr "Social Buttons weergeven wanneer de gebruiker op de pagina klikt"
+
+msgid "Show all networks"
+msgstr "Alle netwerken weergeven"
+
+msgid "Show at next pages"
+msgstr "Weergeven op de volgende pagina's"
+
+msgid "Show counter after the number of shares"
+msgstr "Toon teller vanaf"
+
+msgid "Show everywhere"
+msgstr "Overal weergeven"
+
+msgid "Show navigation button"
+msgstr "Navigatieknop weergeven"
+
+msgid "Show numbers from"
+msgstr "Bekijk nummers vanaf"
+
+msgid "Show on all pages"
+msgstr "Weergeven op alle pagina's"
+
+#| msgid "Show on next posts / pages"
+msgid "Show on next posts / pages / post types"
+msgstr "Weergeven op de volgende pagina's"
+
+msgid ""
+"Show/hide navigation button for sidebar mode. Allows user to show or hide "
+"share buttons"
+msgstr ""
+"Weergeven / verbergen navigatieknop voor zijbalk mode. Hiermee kan de "
+"gebruiker de share knoppen weergeven of verbergen"
+
+msgid "Sidebar"
+msgstr "Sidebar"
+
+msgid "Sidebar customization"
+msgstr "Sidebar bewerken"
+
+msgid "Slider"
+msgstr "Slider"
+
+msgid "Slider Plugin"
+msgstr "Slider plugin"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Smallest"
+msgstr "Extra klein"
+
+msgid ""
+"So as soon as you close that page, I’ll show you step-by-step tutorial of "
+"how to use plugin."
+msgstr ""
+"Van als je deze pagina sluit toon ik je een stap voor stap tutorial hoe je "
+"de plugin gebruikt."
+
+#| msgid "Social Share Buttons Installation"
+msgid "Social Share Buttons"
+msgstr "Social Share knoppen"
+
+msgid "Social Share Buttons Installation"
+msgstr "Installatie"
+
+msgid ""
+"Social share buttons to increase social traffic and popularity. Social "
+"sharing to Facebook, Twitter and other social networks."
+msgstr ""
+"Social share knoppen om je sociale verkeer en populariteit te vergroten. "
+"Sociaal delen op Facebook, Twitter en andere sociale netwerken."
+
+msgid "Start tour"
+msgstr "Start tutorial"
+
+msgid "Statistic"
+msgstr "Statistieken"
+
+msgid "Step 1: Creating Responsive Social Share Buttons"
+msgstr "Slechts twee stappen zijn er nodig om het pakket te gebruiken:"
+
+msgid "Step-by-step tutorial"
+msgstr "Stap voor stap tutorial"
+
+msgid "Step2: Customizing of Social Share by Supsystic"
+msgstr "Volg dan de tutorial om het pakket te personaliseren."
+
+msgid "Strict"
+msgstr "Strikte"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "Support"
+msgstr "Support"
+
+msgid ""
+"Supsystic Newsletter plugin for automatic mailing of your letters. You will "
+"have no need to control it or send them manually. No coding, hard skills or "
+"long hours of customizing are required."
+msgstr ""
+"De Supsystic Nieuwsbrief plugin voor automatische mailing. Alles kan je "
+"instellen dat het automatisch gaat. Er is geen code nodig een een zeer "
+"eenvoudige leercurve."
+
+msgid "Text after buttons"
+msgstr "Tekst na de knoppen"
+
+msgid ""
+"The Best WordPress PopUp option plugin to help you gain more subscribers, "
+"social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+"De beste Wordpress popup plugin om je te helpen aan meer sociale volgers of "
+"advertenties. De popups zijn responsive voor mobiele apparaten. Alle opties "
+"zijn instelbaar."
+
+msgid "The all projects"
+msgstr "Alle projecten"
+
+msgid "The each page"
+msgstr "Elke pagina"
+
+msgid "The entire project"
+msgstr "Het hele project"
+
+msgid "The main idea of the plugin - create different."
+msgstr "Het hoofdidee achter de plugin - doe het anders."
+
+msgid "There’re really many options of social share buttons customization."
+msgstr "Er zijn echt veel opties om de sociale deelknoppen te personaliseren."
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Toggle"
+msgstr "Toggle"
+
+msgid "Tooltip"
+msgstr "Tooltip"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Topic"
+msgstr "Topic"
+
+#| msgid "Total shares"
+msgid "Total Views"
+msgstr "Totale views"
+
+msgid "Total shares"
+msgstr "Totale shares"
+
+msgid "Total shares for last 30 days"
+msgstr "Totale shares de afgelopen 30 dagen"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unable to clone project: %s"
+msgstr "Clonen van project %s mislukt"
+
+msgid "Use short numbers"
+msgstr "Gebruik verkorte nummers"
+
+msgid "User clicks on a page"
+msgstr "Bij klikken op pagina"
+
+msgid "Various"
+msgstr "Diversen"
+
+#| msgid "Video tutorial"
+msgid "Video Tutorial"
+msgstr "Video handleiding"
+
+msgid "Video tutorial"
+msgstr "Video handleiding"
+
+msgid "Views"
+msgstr "Weergaven"
+
+msgid "Views statistic"
+msgstr "Laat statistieken zien"
+
+msgid ""
+"We love our plugin and do the best to improve all features you want and fix "
+"all issues."
+msgstr ""
+"Wij houden van onze plugin en doen ons best om het te verbeteren en alles "
+"eraan te doen om aan jouw wensen te voldoen."
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Welcome to the"
+msgstr "Welkom op de"
+
+msgid "We’ll answer in an hour and fix all issues."
+msgstr "Wij antwoorden binnen het uur en lossen al je problemen op."
+
+msgid "What to write in Statistics:"
+msgstr "Wat moet er in de statistieken komen:"
+
+msgid "When page loads"
+msgstr "Bij laden van de pagina"
+
+msgid "Where to show"
+msgstr "Waar weergeven"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "You can do it using our awesome Popup plugin!"
+msgstr "U kunt dit doen met behulp van onze geweldige Popup plugin!"
+
+msgid "You need to install %s to use this feature."
+msgstr "U dient %s te installeren om deze functie te gebruiken."
+
+#| msgid ""
+#| "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</"
+#| "a> to use this feature."
+msgid ""
+"You need to install <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Google Maps Easy</a> to use this feature."
+msgstr ""
+"Je moet <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Google "
+"Maps Easy</a> installeren om deze functie te gebruiken."
+
+#| msgid ""
+#| "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</"
+#| "a> to use this feature."
+msgid ""
+"You need to install <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Photo Gallery by Supsystic</a> to use this feature."
+msgstr ""
+"Je moet <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Photo "
+"Gallery by Supsystic</a> installeren om deze functie te gebruiken."
+
+#| msgid ""
+#| "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</"
+#| "a> to use this feature."
+msgid ""
+"You need to install <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Popup by Supsystic</a> to use this feature."
+msgstr ""
+"Je moet <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> installeren "
+"om gebruik te kunnen maken van deze functie."
+
+#| msgid ""
+#| "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</"
+#| "a> to use this feature."
+msgid ""
+"You need to install <a href=\"%s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Slider by Supsystic</a> to use this feature."
+msgstr ""
+"Je moet <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Slider "
+"by Supsystic</a> installeren om deze functie te gebruiken."
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "U kunt uw PRO versie niet updaten met een verlopen licentie"
+
+msgid "Your premium support is expired in %s days"
+msgstr "Uw premium support verloopt over %s dagen"
+
+msgid ""
+"You’ve just installed Social Share Buttons by Supsystic! View a quick "
+"introduction of this plugin’s core functionality.<br/><br/>\n"
+"                                                Start with the: <a href=\"?"
+"page=supsystic-social-sharing&module=projects&action=add\">Add new Project</"
+"a><br/>"
+msgstr ""
+"Je heb Social Share Buttons door Subsystic ge�nstalleerd! Voor een snelle "
+"introductie van de plugin functies.<br/><br/>\n"
+"                                                Start met: <a href=\"?"
+"page=supsystic-social-sharing&module=projects&action=add\">Nieuw Project</"
+"a><br/>"
+
+#| msgid "Contact Form"
+msgid "contact us"
+msgstr "contacteer ons"

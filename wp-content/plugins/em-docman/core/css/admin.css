@@ -1,0 +1,103 @@
+#adminmenu #menu-posts-document a:hover div.wp-menu-image {
+	background-position: 4px -35px;
+}
+
+#em-docman-link-form h3 {
+	font-family: Georgia, Times, 'Times New Roman', serif;
+	font-size: 20px;
+	font-weight: 400;
+	padding-bottom: 15px;
+}
+
+#em-docman-link-form input[type="text"] {
+	width: 250px;
+}
+
+#em-docman-link-form p {
+	padding-bottom: 15px;
+}
+
+#em-docman-link-form table {
+	border: 1px solid #e6e6e6;
+	border-bottom: 0;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+#em-docman-link-form td {
+	border-bottom: 1px solid #e6e6e6;
+	padding: 10px 6px;	
+}
+
+#em-docman-link-form th {
+	background: #e6e6e6;
+	padding: 4px 6px;
+	text-align: left;
+}
+
+#em-docman-link-form .form-actions {
+	border-top: 1px solid #e6e6e6;
+	padding-top: 15px;
+}
+
+#em-docman-link-form .form-actions.top {
+	margin-top: 15px;
+}
+
+#em-docman-media-link {
+	padding-left: 0.4em;
+}
+
+#em-docman-media-link .em-docman-media-icon {
+	background: url(../images/media-icon.png) no-repeat;
+	display: inline-block;
+	height: 16px;
+	margin: 0 2px 0 0;
+	vertical-align: middle;
+	width: 15px;
+}
+
+#em-docman-shortcode-form dd {
+	overflow: hidden;
+	padding: 15px 0 0;
+	margin: 0;
+}
+
+#em-docman-shortcode-form dl {
+	border-bottom: 1px solid #e6e6e6;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+}
+
+#em-docman-shortcode-form dt {
+	background: #e6e6e6;
+	font-size: 13px;
+	font-weight: 700;
+	padding: 5px;
+}
+
+#em-docman-shortcode-form h3 {
+	font-family: Georgia, Times, 'Times New Roman', serif;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+#em-docman-shortcode-form label span {
+	display: inline-block;
+	margin-left: 3px;
+}
+
+#em-docman-shortcode-form .checkbox-columns label {
+	clear: left;
+	float: left;
+	padding-right: 10px;
+	width: 45%;
+}
+
+#em-docman-shortcode-form .checkbox-columns label.last {
+	clear: right;
+}
+
+.icon32.icon32-posts-document {
+	background: url(../images/screen-icon.png) no-repeat !important;
+}

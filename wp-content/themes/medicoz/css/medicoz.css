@@ -1,0 +1,49 @@
+.post-content .host-btn
+{
+	padding: 10px;
+    border-radius: 50px;
+	border:2px solid #03bfda;
+}
+.site-title {
+    color: #fff !important;
+}
+.header-3 .header-top {
+    background-color: #fff;
+    color: #000;
+}
+.host-slider1 {
+    z-index: 0;
+}
+.host-slider1 {
+    position: relative;
+    overflow: hidden;
+}
+.service-2 .choose {
+    text-align: center;
+    background-color: #fff;
+    padding: 35px 20px;
+}
+.choose {
+    margin-top: 30px;
+    transition: all .3s ease;
+}
+.dimmer h4 a {
+    color: #fff;
+}
+a, a:hover, a:focus {
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+}
+.dimmer h4 {
+    text-align: left;
+    text-transform: capitalize;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.portfolio-overlay {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}

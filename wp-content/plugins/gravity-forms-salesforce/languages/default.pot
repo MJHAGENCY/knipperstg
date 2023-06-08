@@ -1,0 +1,252 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms + Salesforce Web-To\n"
+"POT-Creation-Date: 2017-06-08 02:07-0400\n"
+"PO-Revision-Date: 2017-06-07 00:03-0500\n"
+"Last-Translator: Naomi C. Bush <naomi@gravityplus.pro>\n"
+"Language-Team: gravity+ <support@gravityplus.pro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../includes\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-addon.php:160
+msgid "Account Information"
+msgstr ""
+
+#: class-addon.php:164
+msgid "Organization ID"
+msgstr ""
+
+#: class-addon.php:173
+msgid "Date Format"
+msgstr ""
+
+#: class-addon.php:249
+msgid ""
+"Unable to validate Organization ID: Error connecting to Salesforce. Please "
+"try again."
+msgstr ""
+
+#: class-addon.php:253
+#, php-format
+msgid "Error validating Organization ID: %s"
+msgstr ""
+
+#: class-addon.php:267
+msgid "Please enter your Salesforce Organization ID"
+msgstr ""
+
+#: class-addon.php:356
+msgid "enter your Salesforce Organization ID"
+msgstr ""
+
+#: class-addon.php:360
+#, php-format
+msgid "To get started, please %s."
+msgstr ""
+
+#: class-addon.php:395 class-addon.php:413 class-addon.php:596
+msgid "Name"
+msgstr ""
+
+#: class-addon.php:396 class-addon.php:478
+msgid "Web-To"
+msgstr ""
+
+#: class-addon.php:416
+msgid "Name for this feed"
+msgstr ""
+
+#: class-addon.php:422
+msgid "Salesforce Object"
+msgstr ""
+
+#: class-addon.php:425
+msgid ""
+"Select the Salesforce Web-To object you want to create when someone submits "
+"this form"
+msgstr ""
+
+#: class-addon.php:428 class-addon.php:551
+msgid "Select"
+msgstr ""
+
+#: class-addon.php:432
+msgid "Lead"
+msgstr ""
+
+#: class-addon.php:436
+msgid "Case"
+msgstr ""
+
+#: class-addon.php:447
+msgid "Required Fields"
+msgstr ""
+
+#: class-addon.php:450
+msgid "Select the form field with the value for the Salesforce required field"
+msgstr ""
+
+#: class-addon.php:456
+msgid "Other Fields"
+msgstr ""
+
+#: class-addon.php:459
+msgid ""
+"Select or enter your Salesforce field name, then select the form field with "
+"the value for that field"
+msgstr ""
+
+#: class-addon.php:465 class-addon.php:467 class-addon.php:492
+msgid "Conditional Logic"
+msgstr ""
+
+#: class-addon.php:467
+msgid ""
+"When conditions are enabled, form submissions will only be sent to "
+"Salesforce when the conditions are met. When disabled, all form submissions "
+"will be sent to Salesforce."
+msgstr ""
+
+#: class-addon.php:472
+msgid "Feed Name"
+msgstr ""
+
+#: class-addon.php:484
+msgid "Salesforce Fields"
+msgstr ""
+
+#: class-addon.php:522
+msgid "Email"
+msgstr ""
+
+#: class-addon.php:561
+msgid "Salutation"
+msgstr ""
+
+#: class-addon.php:562
+msgid "First Name"
+msgstr ""
+
+#: class-addon.php:563
+msgid "Last Name"
+msgstr ""
+
+#: class-addon.php:564
+msgid "Street"
+msgstr ""
+
+#: class-addon.php:565
+msgid "Street Line 2"
+msgstr ""
+
+#: class-addon.php:566
+msgid "City"
+msgstr ""
+
+#: class-addon.php:567
+msgid "State/Province"
+msgstr ""
+
+#: class-addon.php:568
+msgid "Zip"
+msgstr ""
+
+#: class-addon.php:569
+msgid "Country"
+msgstr ""
+
+#: class-addon.php:570 class-addon.php:597
+msgid "Phone"
+msgstr ""
+
+#: class-addon.php:571
+msgid "Mobile"
+msgstr ""
+
+#: class-addon.php:572
+msgid "Fax"
+msgstr ""
+
+#: class-addon.php:573 class-addon.php:600
+msgid "Company"
+msgstr ""
+
+#: class-addon.php:574
+msgid "Title"
+msgstr ""
+
+#: class-addon.php:575
+msgid "Website"
+msgstr ""
+
+#: class-addon.php:576 class-addon.php:599
+msgid "Description"
+msgstr ""
+
+#: class-addon.php:577
+msgid "Lead Source"
+msgstr ""
+
+#: class-addon.php:578
+msgid "Industry"
+msgstr ""
+
+#: class-addon.php:579
+msgid "Rating"
+msgstr ""
+
+#: class-addon.php:580
+msgid "Annual Revenue"
+msgstr ""
+
+#: class-addon.php:581
+msgid "Employees"
+msgstr ""
+
+#: class-addon.php:582
+msgid "Campaign"
+msgstr ""
+
+#: class-addon.php:583
+msgid "Member Status"
+msgstr ""
+
+#: class-addon.php:584
+msgid "Email Opt Out"
+msgstr ""
+
+#: class-addon.php:585
+msgid "Fax Opt Out"
+msgstr ""
+
+#: class-addon.php:586
+msgid "Do Not Call"
+msgstr ""
+
+#: class-addon.php:598
+msgid "Subject"
+msgstr ""
+
+#: class-addon.php:601
+msgid "Type"
+msgstr ""
+
+#: class-addon.php:602
+msgid "Status"
+msgstr ""
+
+#: class-addon.php:603
+msgid "Reason"
+msgstr ""
+
+#: class-addon.php:604
+msgid "Priority"
+msgstr ""

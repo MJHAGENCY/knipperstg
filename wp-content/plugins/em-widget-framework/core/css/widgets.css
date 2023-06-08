@@ -1,0 +1,108 @@
+#em-assignments-widget-popup {
+	display: none;
+}
+
+#TB_window .accordion-content {
+	display: none;
+	overflow: hidden;
+}
+
+#TB_window .accordion-content input {
+	float: left;
+	margin-right: 5px;
+}
+
+#TB_window .accordion-content ul ul {
+	padding-left: 15px;
+}
+
+#TB_window .accordion-content ul ul li:first-child {
+	padding-top: 6px;
+}
+
+#TB_window .accordion-head {
+	background: #555;
+	margin-top: 10px;
+	padding: 5px 0 5px 20px;
+	position: relative;
+}
+
+#TB_window .accordion-head:before {
+	color: #fff;
+	content: "+";
+	position: absolute;
+		top: 5px;
+		left: 5px;
+}
+
+#TB_window .accordion-head.open:before {
+	content: "-";
+}
+
+#TB_window .accordion-head a {
+	color: #fff;
+	display: block;
+	margin-right: 25px;
+	text-decoration: none;
+	text-shadow: none;
+}
+
+#TB_window .accordion-head input {
+	position: absolute;
+		top: 5px;
+		right: 5px;
+}
+
+#TB_window .actions {
+	padding-bottom: 15px;
+	padding-top: 25px;
+}
+
+#TB_window .actions:first-child {
+	padding-top: 10px;
+}
+
+#em-wysiwyg-overlay {
+	background: #000;
+		-ms-filter: "Alpha(Opacity=60)";
+	display: none;
+	opacity: 0.6;
+	position: fixed;
+		top: 28px;
+		bottom: 0;
+		left: 0;
+		z-index: 100;
+	width: 100%;
+}
+
+#wp-em-wysiwyg-widget-field-wrap {
+	background: #fff;
+	border-bottom: 0;
+	border-radius: 3px;
+		-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+	display: none;
+	padding: 25px;
+	position: fixed;
+		top: 50%;
+		left: 50%;
+		z-index: 105;
+	width: 800px;
+}
+
+#wp-em-wysiwyg-widget-field-wrap iframe {
+	height: 375px !important;
+}
+
+#wp-em-wysiwyg-widget-field-wrap .actions {
+	padding-top: 20px;
+	text-align: right;
+}
+
+#wp-em-wysiwyg-widget-field-wrap .actions .button-primary {
+	margin-left: 10px;
+}
+
+.widget .upload-field {
+	width: 70%;
+}

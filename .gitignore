@@ -1,0 +1,107 @@
+# WordPress #
+############
+wp-config-local.php
+wp-cli.local.yml
+wp-content/uploads
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/updraft/
+wp-content/backupwordpress-*/
+wp-content/managewp/backups/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+sitemap.xml
+sitemap.xml.gz
+
+# @TODO writable paths
+wp-content/cache/
+wp-content/backups/
+
+# Avoid accidental modification of pantheon.upstream.yml in sites
+# created from this upstream
+pantheon.upstream.yml
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.tgz
+!wp-includes/**/*.gz
+
+# Logs and databases #
+######################
+*.log
+*.sql
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+._*
+
+# Vim generated files #
+######################
+*.un~
+
+# SASS #
+##########
+.sass-cache
+
+# Phpstorm
+.idea
+.idea/*
+
+
+wp-config.php
+_wpeprivate
+wp-content/uploads
+wp-content/blogs*.dir
+wp-content/upgrade
+wp-content/object-cache*.php
+wp-content/mysql*.sql
+wp-content/mu-plugins*/mu-plugin*.php
+wp-content/mu-plugins*/slt-force-strong-passwords*.php
+wp-content/mu-plugins*/wpengine-common
+wp-content/mu-plugins*/limit-login-attempts
+*.hqx$
+*.bin$
+*.exe$
+*.dll$
+*.deb$
+*.dmg$
+*.iso$
+*.img$
+*.msi$
+*.msp$
+*.msm$
+*.mid$
+*.midi$
+*.kar$
+*.mp3$
+*.ogg$
+*.m4a$
+*.ra$
+*.3gpp$
+*.3gp$
+*.mp4$
+*.mpeg$
+*.mpg$
+*.mov$
+*.webm$
+*.flv$
+*.m4v$
+*.mng$
+*.asx$
+*.asf$
+*.wmv$
+*.avi$
+

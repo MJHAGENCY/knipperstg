@@ -1,0 +1,54 @@
+# Copyright (C) 2020 Em_Client
+# This file is distributed under the same license as the Em_Client package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Em_Client\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/admin/class-em-cookie-notification-admin.php:148
+msgid "Effective Date"
+msgstr ""
+
+#: src/admin/class-em-cookie-notification-admin.php:157
+msgid "Expiry"
+msgstr ""
+
+#: src/admin/class-em-cookie-notification-admin.php:309
+msgid "Enter the start date when the cookie notification will be effective."
+msgstr ""
+
+#: src/admin/class-em-cookie-notification-admin.php:310
+msgid "Note: Updating this value in the future will force users to reacknowledge the cookie notification."
+msgstr ""
+
+#: src/admin/class-em-cookie-notification-admin.php:311
+msgid "If using a caching service/plugin, be sure to purse the cache so pages receive this change."
+msgstr ""
+
+#: src/admin/class-em-cookie-notification-admin.php:408
+msgid "Top"
+msgstr ""
+
+#: src/admin/class-em-cookie-notification-admin.php:409
+msgid "Bottom"
+msgstr ""
+
+#: src/admin/class-em-cookie-notification-admin.php:425
+msgid "To give you the best possible experience, this site uses cookies and by continuing to use the site you agree that we can save them on your device."
+msgstr ""
+
+#: src/admin/class-em-cookie-notification-admin.php:452, src/public/partials/em-cookie-notification-public-display.php:19
+msgid "Continue"
+msgstr ""
+
+#: src/admin/partials/em-cookie-notification-admin-display.php:19
+msgid "Simple Cookie Notification"
+msgstr ""

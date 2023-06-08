@@ -1,0 +1,1022 @@
+msgid "1. At first, you need to install Popup by Supsystic plugin."
+msgstr ""
+
+msgid "1. Download Social Share Buttons by Supsystic plugin."
+msgstr ""
+
+msgid "1. On the left navigation menu click “Add new project”."
+msgstr ""
+
+msgid "2. Enter the title of project and click “Create”."
+msgstr ""
+
+msgid "2. Then come back to the Social Share Buttons plugin and create new project."
+msgstr ""
+
+msgid "2. Upload to your WordPress plugins directory."
+msgstr ""
+
+msgid "3. Activate and enjoy."
+msgstr ""
+
+msgid "3. Go to “Where to show” section, find “Popup” radio button and activate it."
+msgstr ""
+
+msgid "4. Customize the other settings. Don’t forget to click “Save” button."
+msgstr ""
+
+msgid "5. Popup plugin will automatically create the popup window with buttons."
+msgstr ""
+
+msgid "Above + Below Content"
+msgstr ""
+
+msgid "Above Content"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activate License"
+msgstr ""
+
+msgid "Add Networks"
+msgstr ""
+
+msgid "Add Project"
+msgstr ""
+
+msgid "Add button spacing"
+msgstr ""
+
+msgid "Add new"
+msgstr ""
+
+msgid "Add new project"
+msgstr ""
+
+msgid "Add or remove social networks."
+msgstr ""
+
+msgid "Add your Social Buttons - to Google Maps"
+msgstr ""
+
+msgid "Additional buttons styles"
+msgstr ""
+
+msgid "Adds buttons to the selected side of the page."
+msgstr ""
+
+msgid "Adds overlay with shadow for buttons %s"
+msgstr ""
+
+msgid "Adds space between the buttons %s"
+msgstr ""
+
+msgid "Adds space between the buttons."
+msgstr ""
+
+msgid "After you create the project – go to “Where to show” section."
+msgstr ""
+
+msgid "Align buttons on content page:"
+msgstr ""
+
+msgid "All news"
+msgstr ""
+
+msgid "All other FAQs"
+msgstr ""
+
+msgid "All pages"
+msgstr ""
+
+msgid "All post type"
+msgstr ""
+
+msgid "All posts"
+msgstr ""
+
+msgid "Allows user to display all networks in popup"
+msgstr ""
+
+msgid "Allows you to insert project shortcode and show buttons where you want."
+msgstr ""
+
+msgid "Allows you to lock content elements by class name before user shares this page with any network"
+msgstr ""
+
+msgid "An error has occurred"
+msgstr ""
+
+msgid "Available in PRO"
+msgstr ""
+
+msgid "Bacground color"
+msgstr ""
+
+msgid "Background opacity"
+msgstr ""
+
+msgid "Backup Plugin"
+msgstr ""
+
+msgid "Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+
+msgid "Be closer to your visitors and customers with Live Chat Support by Supsystic. Help you visitors, support them in real-time with exceptional Live Chat WordPress plugin by Supsystic."
+msgstr ""
+
+msgid "Below Content"
+msgstr ""
+
+msgid "Big"
+msgstr ""
+
+msgid "Biggest"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Bordered"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "But sometimes some issues happened or you can’t find feature you want :)"
+msgstr ""
+
+msgid "Button Text"
+msgstr ""
+
+msgid "Button background color"
+msgstr ""
+
+msgid "Button border radius"
+msgstr ""
+
+msgid "Button border style"
+msgstr ""
+
+msgid "Button border width"
+msgstr ""
+
+msgid "Button horizontal margin"
+msgstr ""
+
+msgid "Button icon color"
+msgstr ""
+
+msgid "Button parameters"
+msgstr ""
+
+msgid "Button transparency"
+msgstr ""
+
+msgid "Button vertical margin"
+msgstr ""
+
+msgid "Button width"
+msgstr ""
+
+msgid "Button width tooltip"
+msgstr ""
+
+msgid "Buttons Design"
+msgstr ""
+
+msgid "Buttons animation"
+msgstr ""
+
+msgid "Buttons customization"
+msgstr ""
+
+msgid "Buttons size"
+msgstr ""
+
+msgid "Buttons will appear at the post or page content."
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Change size"
+msgstr ""
+
+msgid "Change size for buttons %s"
+msgstr ""
+
+msgid "Check all FAQs"
+msgstr ""
+
+msgid "Choose Animation"
+msgstr ""
+
+msgid "Choose Buttons Design. You can change it later."
+msgstr ""
+
+msgid "Choose Template"
+msgstr ""
+
+msgid "Choose button design"
+msgstr ""
+
+msgid "Choose buttons design and set buttons parameters. Like counters, spacing, size and more."
+msgstr ""
+
+msgid "Choose from what exactly to count the shares – the all projects, the entire project, the each page."
+msgstr ""
+
+msgid "Choose needed border type"
+msgstr ""
+
+msgid "Choose one of the button design and create the project. You can change design later and buttons settings on the next step."
+msgstr ""
+
+msgid "Choose pages you want to hide buttons. You can choose \"All Pages\" or specify posts, pages"
+msgstr ""
+
+msgid "Choose pages you want to show buttons. You can choose \"All Pages\" or specify posts, pages or URLs"
+msgstr ""
+
+msgid "Choose several social networks for the project. You can add new social networks or remove selected on the next step."
+msgstr ""
+
+msgid "Choose social networks"
+msgstr ""
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want %s"
+msgstr ""
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want it."
+msgstr ""
+
+msgid "Choose this option if you don\'t want to display icons on mobile devices"
+msgstr ""
+
+msgid "Choose this option if you want to display icons only on mobile devices"
+msgstr ""
+
+msgid "Choose transparency for buttons"
+msgstr ""
+
+msgid "Click to rename project and hit [Enter]"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Coming Soon Plugin"
+msgstr ""
+
+msgid "Coming soon page with drag-and-drop builder or under construction | maintenance mode to notify visitors and collects emails."
+msgstr ""
+
+msgid "Congratulations!"
+msgstr ""
+
+msgid "Congratulations! You have successfully installed PRO version of the plugin. Final step to finish Your PRO version setup - is to enter your Email and License Key on this page. This will activate Your copy of software on this site."
+msgstr ""
+
+msgid "Congratulations! You have successfully installed and activated PRO version of the plugin."
+msgstr ""
+
+msgid "Contact Form"
+msgstr ""
+
+msgid "Contact Form Plugin"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Content Lock Element Class"
+msgstr ""
+
+msgid "Content lock settings"
+msgstr ""
+
+msgid "Counter style"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create Date"
+msgstr ""
+
+msgid "Create and manage beautiful data tables with custom design. No HTML knowledge is required."
+msgstr ""
+
+msgid "Create new project."
+msgstr ""
+
+msgid "Create online membership community with custom user profiles, roles, FrontEnd registration and login. Members Directory, activity, groups, messages."
+msgstr ""
+
+msgid "Creates a widget of the current project at Appearance > Widgets and allows you to use project at theme\'s widgets areas."
+msgstr ""
+
+msgid "Creating slideshows with Slider plugin is fast and easy. Simply select images from your WordPress Media Library, Flickr, Instagram or Facebook, set slide captions, links and SEO fields all from one page."
+msgstr ""
+
+msgid "Currently you haven\'t any maps. <a style=\"display: inline-block; text-decoration: none !important; margin: 0; border: none !important;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Create your first Map</a> and then just return to this page and select Map here."
+msgstr ""
+
+msgid "Currently you haven\'t any popups. <a style=\"display: inline-block; text-decoration: none !important; margin: 0; border: none !important;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Create your first PopUp</a> and then just return to this page and select PopUp here."
+msgstr ""
+
+msgid "Currently you haven\'t any projects"
+msgstr ""
+
+msgid "Custom text"
+msgstr ""
+
+msgid "Customize"
+msgstr ""
+
+msgid "Customize the other options. Don’t forget to click “Save” button."
+msgstr ""
+
+msgid "Customize the other settings. Don’t forget to click “Save” button."
+msgstr ""
+
+msgid "Data Tables Generator"
+msgstr ""
+
+msgid "Default message"
+msgstr ""
+
+msgid "Define border color for Social Share Buttons"
+msgstr ""
+
+msgid "Define size of the button letters in pixels"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Digital Publication Plugin"
+msgstr ""
+
+msgid "Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Display counters"
+msgstr ""
+
+msgid "Display custom Google Maps. Set markers and locations with text, images, categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+
+msgid "Display total counter"
+msgstr ""
+
+msgid "Displays counters of social shares on buttons %s"
+msgstr ""
+
+msgid "Displays counters of social shares on buttons."
+msgstr ""
+
+msgid "Displays counters styles of social shares on buttons %s"
+msgstr ""
+
+msgid "Distance between buttons and screen side horizontally in pixels"
+msgstr ""
+
+msgid "Distance between buttons and screen side vertically in pixels"
+msgstr ""
+
+msgid "Don\'t show on next pages / posts"
+msgstr ""
+
+msgid "Don’t worry, just "
+msgstr ""
+
+msgid "Each project is the way to set social button in some place. For example you can create one project with buttons in the website content and the second project with the buttons in the sidebar."
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit project"
+msgstr ""
+
+msgid "Effects"
+msgstr ""
+
+msgid "Element class"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Enable / Disable statistics"
+msgstr ""
+
+msgid "Enable Content Lock"
+msgstr ""
+
+msgid "Enable button customization"
+msgstr ""
+
+msgid "Enable gradient mode"
+msgstr ""
+
+msgid "Enter project name"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Establish pixels quantity for width of the border"
+msgstr ""
+
+msgid "Failed to execute query: %s"
+msgstr ""
+
+msgid "Featured Plugins"
+msgstr ""
+
+msgid "Find “Widget” radio button and activate it."
+msgstr ""
+
+msgid "Flat"
+msgstr ""
+
+msgid "Font color"
+msgstr ""
+
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgid "Get PRO"
+msgstr ""
+
+msgid "Get Pro"
+msgstr ""
+
+msgid "Go to “Main” tab -> “Where to show” section, find “Popup” radio button and activate it."
+msgstr ""
+
+msgid "Google Maps"
+msgstr ""
+
+msgid "Google Maps Easy"
+msgstr ""
+
+msgid "Gradient mode creates smooth transitions from the one color to another %s"
+msgstr ""
+
+msgid "Here find your social share project and add to widget area."
+msgstr ""
+
+msgid "Hide on home page"
+msgstr ""
+
+msgid "Hide on mobile devices"
+msgstr ""
+
+msgid "Homepage only"
+msgstr ""
+
+msgid "Hope it will be usefull for you :)"
+msgstr ""
+
+msgid "How to Create Social Share Buttons in WordPress"
+msgstr ""
+
+msgid "How to show Social Buttons in Popup?"
+msgstr ""
+
+msgid "How to use Social Share Buttons Widget?"
+msgstr ""
+
+msgid "How to use Social Share Buttons plugin?"
+msgstr ""
+
+msgid "ID is not specified."
+msgstr ""
+
+msgid "Icon font size"
+msgstr ""
+
+msgid "Icons animation"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "In the main settings:"
+msgstr ""
+
+msgid "Increase social traffic and popularity with Social Share Buttons."
+msgstr ""
+
+msgid "It’s never been so easy to create and manage pricing and comparison tables with table builder. Any element of the table can be customise with mouse click."
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Let\'s Start!"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Likes / Shares"
+msgstr ""
+
+msgid "Live Chat Plugin"
+msgstr ""
+
+msgid "Livejournal"
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Main settings"
+msgstr ""
+
+msgid "Membership by Supsystic"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Mono"
+msgstr ""
+
+msgid "More detail information you can find here"
+msgstr ""
+
+msgid "Most popular pages for last 30 days"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Network total shares"
+msgstr ""
+
+msgid "Networks to show"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "Newsletter Plugin"
+msgstr ""
+
+msgid "Next Step"
+msgstr ""
+
+msgid "Next step"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Now you can use this project in any Photo Gallery. Check Photo Gallery setting for details."
+msgstr ""
+
+msgid "Now you can use this project in any Popup. Check Popup setting for details."
+msgstr ""
+
+msgid "Now you can use this project in any Slider. Check Slider setting for details."
+msgstr ""
+
+msgid "On the left wordpress navigation menu go to Appearance -> Widgets."
+msgstr ""
+
+msgid "One more advantage of Social Share WordPress Plugin is an easy installation. To install it, you should make three following steps:"
+msgstr ""
+
+msgid "One of the best plugin for creating Contact Forms on your WordPress site. Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Order by can be %s, \"%s\" given."
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Overlay with shadow"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Photo Gallery"
+msgstr ""
+
+msgid "Photo Gallery Plugin"
+msgstr ""
+
+msgid "Photo Gallery Plugin with a great number of layouts will help you to create quality respectable portfolios and image galleries."
+msgstr ""
+
+msgid "Please, select button design"
+msgstr ""
+
+msgid "Please, set project name!"
+msgstr ""
+
+msgid "Plugin options"
+msgstr ""
+
+msgid "Popup"
+msgstr ""
+
+msgid "Popup Plugin"
+msgstr ""
+
+msgid "Popup plugin will automatically create the popup window with buttons."
+msgstr ""
+
+msgid "Post type"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Pricing Table"
+msgstr ""
+
+msgid "Pro designs"
+msgstr ""
+
+msgid "Profile name"
+msgstr ""
+
+msgid "Project \"%s\" statistics"
+msgstr ""
+
+msgid "Project Name:"
+msgstr ""
+
+msgid "Project Title"
+msgstr ""
+
+msgid "Project not found"
+msgstr ""
+
+msgid "Project title"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "Projects total views"
+msgstr ""
+
+msgid "Renew License"
+msgstr ""
+
+msgid "Report a bug"
+msgstr ""
+
+msgid "Require a new functionallity"
+msgstr ""
+
+msgid "Return to the project"
+msgstr ""
+
+msgid "Return to the project \"%s\""
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \"Display counters\" option."
+msgstr ""
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \\"Display counters\\" option %s"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Saving networks sort order..."
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select design"
+msgstr ""
+
+msgid "Select map"
+msgstr ""
+
+msgid "Select network"
+msgstr ""
+
+msgid "Select network. You can change Social Networks later"
+msgstr ""
+
+msgid "Select popup"
+msgstr ""
+
+msgid "Selected"
+msgstr ""
+
+msgid "Selected button set is unavailable for the project \"%s\", \"Flat 1\" will be used."
+msgstr ""
+
+msgid "Send email"
+msgstr ""
+
+msgid "Server Settings"
+msgstr ""
+
+msgid "Set color for button icons"
+msgstr ""
+
+msgid "Set color for buttons background"
+msgstr ""
+
+msgid "Set pixels to round border corners"
+msgstr ""
+
+msgid "Set showing parameters. On which pages and URLs you would like to show buttons, when you would like to show them."
+msgstr ""
+
+msgid "Set social network placement. For each project you can setup one placement to show. If you want to show social buttons in the different places, you can create several project for each place. For example, you can create one project for the <a href=\"//supsystic.com/plugins/social-share-plugin/\" target=\"_blank\">Left Sidebar</a> placement, second project for the <a href=\"//supsystic.com/plugins/social-share-plugin/\" target=\"_blank\">Content</a> placement and third for the <a href=\"//supsystic.com/plugins/social-share-plugin/\" target=\"_blank\">Widget</a> placement"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Share on "
+msgstr ""
+
+msgid "Share only post link"
+msgstr ""
+
+msgid "Share post link even if post is in the list"
+msgstr ""
+
+msgid "Shares"
+msgstr ""
+
+msgid "Short url"
+msgstr ""
+
+msgid "Shortcode or PHP code"
+msgstr ""
+
+msgid "Show Only on Mobile Devices"
+msgstr ""
+
+msgid "Show Social Buttons when page loads"
+msgstr ""
+
+msgid "Show Social Buttons when user clicks on page"
+msgstr ""
+
+msgid "Show all networks"
+msgstr ""
+
+msgid "Show at next pages"
+msgstr ""
+
+msgid "Show counter after the number of shares"
+msgstr ""
+
+msgid "Show everywhere"
+msgstr ""
+
+msgid "Show navigation button"
+msgstr ""
+
+msgid "Show numbers from"
+msgstr ""
+
+msgid "Show on all pages"
+msgstr ""
+
+msgid "Show on next posts / pages / post types"
+msgstr ""
+
+msgid "Show/hide navigation button for sidebar mode. Allows user to show or hide share buttons"
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Sidebar customization"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Slider Plugin"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Smallest"
+msgstr ""
+
+msgid "So as soon as you close that page, I’ll show you step-by-step tutorial of how to use plugin."
+msgstr ""
+
+msgid "Social Share Buttons"
+msgstr ""
+
+msgid "Social Share Buttons Installation"
+msgstr ""
+
+msgid "Social share buttons to increase social traffic and popularity. Social sharing to Facebook, Twitter and other social networks."
+msgstr ""
+
+msgid "Start tour"
+msgstr ""
+
+msgid "Statistic"
+msgstr ""
+
+msgid "Step 1: Creating Responsive Social Share Buttons"
+msgstr ""
+
+msgid "Step-by-step tutorial"
+msgstr ""
+
+msgid "Step2: Customizing of Social Share by Supsystic"
+msgstr ""
+
+msgid "Strict"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Supsystic Newsletter plugin for automatic mailing of your letters. You will have no need to control it or send them manually. No coding, hard skills or long hours of customizing are required."
+msgstr ""
+
+msgid "Text after buttons"
+msgstr ""
+
+msgid "The Best WordPress PopUp option plugin to help you gain more subscribers, social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+
+msgid "The all projects"
+msgstr ""
+
+msgid "The each page"
+msgstr ""
+
+msgid "The entire project"
+msgstr ""
+
+msgid "The main idea of the plugin - create different."
+msgstr ""
+
+msgid "There’re really many options of social share buttons customization."
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Toggle"
+msgstr ""
+
+msgid "Tooltip"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Topic"
+msgstr ""
+
+msgid "Total Views"
+msgstr ""
+
+msgid "Total shares"
+msgstr ""
+
+msgid "Total shares for last 30 days"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unable to clone project: %s"
+msgstr ""
+
+msgid "Use short numbers"
+msgstr ""
+
+msgid "User clicks on a page"
+msgstr ""
+
+msgid "Various"
+msgstr ""
+
+msgid "Video Tutorial"
+msgstr ""
+
+msgid "Video tutorial"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Views statistic"
+msgstr ""
+
+msgid "We love our plugin and do the best to improve all features you want and fix all issues."
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Welcome to the"
+msgstr ""
+
+msgid "We’ll answer in an hour and fix all issues."
+msgstr ""
+
+msgid "What to write in Statistics:"
+msgstr ""
+
+msgid "When page loads"
+msgstr ""
+
+msgid "Where to show"
+msgstr ""
+
+msgid "Widget"
+msgstr ""
+
+msgid "You can do it using our awesome Popup plugin!"
+msgstr ""
+
+msgid "You need to install %s to use this feature."
+msgstr ""
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Google Maps Easy</a> to use this feature."
+msgstr ""
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Photo Gallery by Supsystic</a> to use this feature."
+msgstr ""
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Popup by Supsystic</a> to use this feature."
+msgstr ""
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Slider by Supsystic</a> to use this feature."
+msgstr ""
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr ""
+
+msgid "Your premium support is expired in %s days"
+msgstr ""
+
+msgid ""
+"You’ve just installed Social Share Buttons by Supsystic! View a quick introduction of this plugin’s core functionality.<br/><br/>\n"
+"                                                Start with the: <a href="?page=supsystic-social-sharing&module=projects&action=add">Add new Project</a><br/>"
+msgstr ""
+
+msgid "contact us"
+msgstr ""
+

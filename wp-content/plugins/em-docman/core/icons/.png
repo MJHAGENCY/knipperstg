@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>stdicon - neu</title>
+        <style>
+a img {
+    border : 0px;
+}
+body {
+    line-height: 150%;
+    color : #111;
+}
+a.external {
+    background : url(/static/external.png) center right no-repeat;
+    padding: 0 13px 0 0;
+}
+.std {
+    color : #666;
+}
+
+.icons div {
+    border : 1px solid #ddd;
+    float : left;
+    margin : 10px;
+    padding : 10px;
+    text-align : center;
+    color : #222;
+}
+a {
+    text-decoration : none;
+    color : black;
+}
+
+        </style>
+        <link rel="shortcut icon" href="/html" />
+    </head>
+    <body>
+        <div class="content">
+            
+<h1><a href="/"><span class="std">std</span>icon<span class="std">s</a> for 
+<a class="external" href="http://art.gnome.org/themes/icon/1100">neu</a>
+</h1>
+<div class="icons">
+
+    <a href="/neu/applciation/vnd">
+        <div title="applciation/vnd">
+            <img src="/neu/applciation/vnd" />
+            <br/>applciation/vnd
+        </div>
+    </a>
+
+    <a href="/neu/application/msword">
+        <div title="application/msword">
+            <img src="/neu/application/msword" />
+            <br/>appli...ion/msword
+        </div>
+    </a>
+
+    <a href="/neu/application/octet-stream">
+        <div title="application/octet-stream">
+            <img src="/neu/application/octet-stream" />
+            <br/>appli...tet-stream
+        </div>
+    </a>
+
+    <a href="/neu/application/ogg">
+        <div title="application/ogg">
+            <img src="/neu/application/ogg" />
+            <br/>application/ogg
+        </div>
+    </a>
+
+    <a href="/neu/application/pdf">
+        <div title="application/pdf">
+            <img src="/neu/application/pdf" />
+            <br/>application/pdf
+        </div>
+    </a>
+
+    <a href="/neu/application/postscript">
+        <div title="application/postscript">
+            <img src="/neu/application/postscript" />
+            <br/>appli...postscript
+        </div>
+    </a>
+
+    <a href="/neu/application/rtf">
+        <div title="application/rtf">
+            <img src="/neu/application/rtf" />
+            <br/>application/rtf
+        </div>
+    </a>
+
+    <a href="/neu/application/vnd">
+        <div title="application/vnd">
+            <img src="/neu/application/vnd" />
+            <br/>application/vnd
+        </div>
+    </a>
+
+    <a href="/neu/application/vnd.ms-excel">
+        <div title="application/vnd.ms-excel">
+            <img src="/neu/application/vnd.ms-excel" />
+            <br/>appli...d.ms-excel
+        </div>
+    </a>
+
+    <a href="/neu/application/wordperfect">
+        <div title="application/wordperfect">
+            <img src="/neu/application/wordperfect" />
+            <br/>appli...ordperfect
+        </div>
+    </a>
+
+    <a href="/neu/application/x-7z-compressed">
+        <div title="application/x-7z-compressed">
+            <img src="/neu/application/x-7z-compressed" />
+            <br/>appli...compressed
+        </div>
+    </a>
+
+    <a href="/neu/application/x-abiword">
+        <div title="application/x-abiword">
+            <img src="/neu/application/x-abiword" />
+            <br/>appli.../x-abiword
+        </div>
+    </a>
+
+    <a href="/neu/application/x-applix-spreadsheet">
+        <div title="application/x-applix-spreadsheet">
+            <img src="/neu/application/x-applix-spreadsheet" />
+            <br/>appli...preadsheet
+        </div>
+    </a>
+
+    <a href="/neu/application/x-applix-word">
+        <div title="application/x-applix-word">
+            <img src="/neu/application/x-applix-word" />
+            <br/>appli...pplix-word
+        </div>
+    </a>
+
+    <a href="/neu/application/x-archive">
+        <div title="application/x-archive">
+            <img src="/neu/application/x-archive" />
+            <br/>appli.../x-archive
+        </div>
+    </a>
+
+    <a href="/neu/application/x-arj">
+        <div title="application/x-arj">
+            <img src="/neu/application/x-arj" />
+            <br/>application/x-arj
+        </div>
+    </a>
+
+    <a href="/neu/application/x-bzip">
+        <div title="application/x-bzip">
+            <img src="/neu/application/x-bzip" />
+            <br/>appli...ion/x-bzip
+        </div>
+    </a>
+
+    <a href="/neu/application/x-bzip-compressed-tar">
+        <div title="application/x-bzip-compressed-tar">
+            <img src="/neu/application/x-bzip-compressed-tar" />
+            <br/>appli...ressed-tar
+        </div>
+    </a>
+
+    <a href="/neu/application/x-compress">
+        <div title="application/x-compress">
+            <img src="/neu/application/x-compress" />
+            <br/>appli...x-compress
+        </div>
+    </a>
+
+    <a href="/neu/application/x-compressed-tar">
+        <div title="application/x-compressed-tar">
+            <img src="/neu/application/x-compressed-tar" />
+            <br/>appli...ressed-tar
+        </div>
+    </a>
+
+    <a href="/neu/application/x-cpio">
+        <div title="application/x-cpio">
+            <img src="/neu/application/x-cpio" />
+            <br/>appli...ion/x-cpio
+        </div>
+    </a>
+
+    <a href="/neu/application/x-cpio-compressed">
+        <div title="application/x-cpio-compressed">
+            <img src="/neu/application/x-cpio-compressed" />
+            <br/>appli...compressed
+        </div>
+    </a>
+
+    <a href="/neu/application/x-deb">
+        <div title="application/x-deb">
+            <img src="/neu/application/x-deb" />
+            <br/>application/x-deb
+        </div>
+    </a>
+
+    <a href="/neu/application/x-dvi">
+        <div title="application/x-dvi">
+            <img src="/neu/application/x-dvi" />
+            <br/>application/x-dvi
+        </div>
+    </a>
+
+    <a href="/neu/application/x-executable">
+        <div title="application/x-executable">
+            <img src="/neu/application/x-executable" />
+            <br/>appli...executable
+        </div>
+    </a>
+
+    <a href="/neu/application/x-font-afm">
+        <div title="application/x-font-afm">
+            <img src="/neu/application/x-font-afm" />
+            <br/>appli...x-font-afm
+        </div>
+    </a>
+
+    <a href="/neu/application/x-font-afm">
+        <div title="application/x-font-afm">
+            <img src="/neu/application/x-font-afm" />
+            <br/>appli...x-font-afm
+        </div>
+    </a>
+
+    <a href="/neu/application/x-font-bdf">
+        <div title="application/x-font-bdf">
+            <img src="/neu/application/x-font-bdf" />
+            <br/>appli...x-font-bdf
+        </div>
+    </a>
+
+    <a href="/neu/application/x-font-linux-psf">
+        <div title="application/x-font-linux-psf">
+            <img src="/neu/application/x-font-linux-psf" />
+            <br/>appli...-linux-psf
+        </div>
+    </a>
+
+    <a href="/neu/application/x-font-pcf">
+        <div title="application/x-font-pcf">
+            <img src="/neu/application/x-font-pcf" />
+            <br/>appli...x-font-pcf
+        </div>
+    </a>
+
+    <a href="/neu/application/x-font-sunos-news">
+        <div title="application/x-font-sunos-news">
+            <img src="/neu/application/x-font-sunos-news" />
+            <br/>appli...sunos-news
+        </div>
+    </a>
+
+    <a href="/neu/application/x-font-ttf">
+        <div title="application/x-font-ttf">
+            <img src="/neu/application/x-font-ttf" />
+            <br/>appli...x-font-ttf
+        </div>
+    </a>
+
+    <a href="/neu/application/x-gnumeric">
+        <div title="application/x-gnumeric">
+            <img src="/neu/application/x-gnumeric" />
+            <br/>appli...x-gnumeric
+        </div>
+    </a>
+
+    <a href="/neu/application/x-gzip">
+        <div title="application/x-gzip">
+            <img src="/neu/application/x-gzip" />
+            <br/>appli...ion/x-gzip
+        </div>
+    </a>
+
+    <a href="/neu/application/x-killustrator">
+        <div title="application/x-killustrator">
+            <img src="/neu/application/x-killustrator" />
+            <br/>appli...llustrator
+        </div>
+    </a>
+
+    <a href="/neu/application/x-kspread">
+        <div title="application/x-kspread">
+            <img src="/neu/application/x-kspread" />
+            <br/>appli.../x-kspread
+        </div>
+    </a>
+
+    <a href="/neu/application/x-kword">
+        <div title="application/x-kword">
+            <img src="/neu/application/x-kword" />
+            <br/>appli...on/x-kword
+        </div>
+    </a>
+
+    <a href="/neu/application/x-ms-dos-executable">
+        <div title="application/x-ms-dos-executable">
+            <img src="/neu/application/x-ms-dos-executable" />
+            <br/>appli...executable
+        </div>
+    </a>
+
+    <a href="/neu/application/x-perl">
+        <div title="application/x-perl">
+            <img src="/neu/application/x-perl" />
+            <br/>appli...ion/x-perl
+        </div>
+    </a>
+
+    <a href="/neu/application/x-php">
+        <div title="application/x-php">
+            <img src="/neu/application/x-php" />
+            <br/>application/x-php
+        </div>
+    </a>
+
+    <a href="/neu/application/x-python-bytecode">
+        <div title="application/x-python-bytecode">
+            <img src="/neu/application/x-python-bytecode" />
+            <br/>appli...n-bytecode
+        </div>
+    </a>
+
+    <a href="/neu/application/x-rar">
+        <div title="application/x-rar">
+            <img src="/neu/application/x-rar" />
+            <br/>application/x-rar
+        </div>
+    </a>
+
+    <a href="/neu/application/x-rpm">
+        <div title="application/x-rpm">
+            <img src="/neu/application/x-rpm" />
+            <br/>application/x-rpm
+        </div>
+    </a>
+
+    <a href="/neu/application/x-shellscript">
+        <div title="application/x-shellscript">
+            <img src="/neu/application/x-shellscript" />
+            <br/>appli...hellscript
+        </div>
+    </a>
+
+    <a href="/neu/application/x-shockwave-flash">
+        <div title="application/x-shockwave-flash">
+            <img src="/neu/application/x-shockwave-flash" />
+            <br/>appli...wave-flash
+        </div>
+    </a>
+
+    <a href="/neu/application/x-tar">
+        <div title="application/x-tar">
+            <img src="/neu/application/x-tar" />
+            <br/>application/x-tar
+        </div>
+    </a>
+
+    <a href="/neu/application/x-tarz">
+        <div title="application/x-tarz">
+            <img src="/neu/application/x-tarz" />
+            <br/>appli...ion/x-tarz
+        </div>
+    </a>
+
+    <a href="/neu/application/x-tex">
+        <div title="application/x-tex">
+            <img src="/neu/application/x-tex" />
+            <br/>application/x-tex
+        </div>
+    </a>
+
+    <a href="/neu/application/xhtml+xml">
+        <div title="application/xhtml+xml">
+            <img src="/neu/application/xhtml+xml" />
+            <br/>appli.../xhtml+xml
+        </div>
+    </a>
+
+    <a href="/neu/application/zip">
+        <div title="application/zip">
+            <img src="/neu/application/zip" />
+            <br/>application/zip
+        </div>
+    </a>
+
+    <a href="/neu/audio">
+        <div title="audio">
+            <img src="/neu/audio" />
+            <br/>audio
+        </div>
+    </a>
+
+    <a href="/neu/audio/x-generic">
+        <div title="audio/x-generic">
+            <img src="/neu/audio/x-generic" />
+            <br/>audio/x-generic
+        </div>
+    </a>
+
+    <a href="/neu/font/x-generic">
+        <div title="font/x-generic">
+            <img src="/neu/font/x-generic" />
+            <br/>font/x-generic
+        </div>
+    </a>
+
+    <a href="/neu/image">
+        <div title="image">
+            <img src="/neu/image" />
+            <br/>image
+        </div>
+    </a>
+
+    <a href="/neu/image/x-generic">
+        <div title="image/x-generic">
+            <img src="/neu/image/x-generic" />
+            <br/>image/x-generic
+        </div>
+    </a>
+
+    <a href="/neu/text/html">
+        <div title="text/html">
+            <img src="/neu/text/html" />
+            <br/>text/html
+        </div>
+    </a>
+
+    <a href="/neu/text/plain">
+        <div title="text/plain">
+            <img src="/neu/text/plain" />
+            <br/>text/plain
+        </div>
+    </a>
+
+    <a href="/neu/text/vnd">
+        <div title="text/vnd">
+            <img src="/neu/text/vnd" />
+            <br/>text/vnd
+        </div>
+    </a>
+
+    <a href="/neu/text/x-csh">
+        <div title="text/x-csh">
+            <img src="/neu/text/x-csh" />
+            <br/>text/x-csh
+        </div>
+    </a>
+
+    <a href="/neu/text/x-python">
+        <div title="text/x-python">
+            <img src="/neu/text/x-python" />
+            <br/>text/x-python
+        </div>
+    </a>
+
+    <a href="/neu/text/x-sh">
+        <div title="text/x-sh">
+            <img src="/neu/text/x-sh" />
+            <br/>text/x-sh
+        </div>
+    </a>
+
+    <a href="/neu/text/x-vcard">
+        <div title="text/x-vcard">
+            <img src="/neu/text/x-vcard" />
+            <br/>text/x-vcard
+        </div>
+    </a>
+
+    <a href="/neu/text/x-zsh">
+        <div title="text/x-zsh">
+            <img src="/neu/text/x-zsh" />
+            <br/>text/x-zsh
+        </div>
+    </a>
+
+    <a href="/neu/video">
+        <div title="video">
+            <img src="/neu/video" />
+            <br/>video
+        </div>
+    </a>
+
+    <a href="/neu/video/x-generic">
+        <div title="video/x-generic">
+            <img src="/neu/video/x-generic" />
+            <br/>video/x-generic
+        </div>
+    </a>
+
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script>
+$(function() {
+    var height = 0;
+    $("img").each(function() {
+        var h = $(this).height();
+        if (height < h)
+            height = h;
+    });
+    if (!height) {
+      return;
+    }
+    
+    $("img").each(function() {
+        $(this).height(height);
+    });
+})
+</script>
+
+        </div>
+
+<script type="text/javascript">
+  var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com";
+  document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
+</script>
+<script type="text/javascript">
+UserVoice.Tab.show({ 
+  /* required */
+  key: 'stdicon',
+  host: 'stdicon.uservoice.com', 
+  forum: '27275', 
+  /* optional */
+  alignment: 'right',
+  background_color:'#000', 
+  text_color: 'white',
+  hover_color: '#06C',
+  lang: 'en'
+})
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-149816-9");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </body>
+</html>

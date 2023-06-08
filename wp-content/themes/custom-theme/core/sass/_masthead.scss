@@ -1,0 +1,36 @@
+//---
+// MASTHEAD
+//---
+  
+  .masthead {
+    position: relative;
+  } 
+  
+  .breadcrumbs-container {
+    padding: em(10) 0;
+  }
+    
+    .breadcrumbs {
+      font-size: em(12);
+      font-weight: 300;
+      
+      > span span:not(.breadcrumb_last) {
+        color: #fff;
+        font-size: 16px;
+        @include fa;
+      }
+      
+      a {
+        color: $primary-color;
+        padding: 0 em(6);
+        text-decoration: none;
+        
+        &:hover {
+          color: #fff;
+        }
+      }
+    }
+    
+      .breadcrumb_last {
+        padding-left: em(6);
+      }

@@ -1,0 +1,36 @@
+#media-upload-header #sidemenu li#tab-type_url,
+#media-upload-header #sidemenu li#tab-gallery,
+body.tab-library #media-items .media-item a.toggle,
+#media-items .media-item tr.image-size,
+#media-items .media-item tr.align,
+#media-items .media-item tr.url,
+body.tab-libary #media-items .media-item .slidetoggle {
+	display: none !important;
+}
+
+#media-items .media-item {
+	overflow: hidden;
+}
+
+body.tab-library #media-items .media-item .em-widget-field-select {
+	line-height: 14px;
+	margin-top: -10px;
+	position: absolute;
+		top: 50%;
+		right: 10px;
+}
+
+#media-items .media-item .filename.new {
+	padding: 0 75px 0 10px;
+}
+
+#media-items .media-item .pinkynail {
+	max-width: 64px;
+	max-height: 64px;
+	display: block !important;
+	padding-bottom: 2px;
+}
+
+#media-upload .ml-submit {
+	display: none !important;
+}

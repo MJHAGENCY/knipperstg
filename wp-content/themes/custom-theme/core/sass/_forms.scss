@@ -1,0 +1,537 @@
+//---
+// FORM VARIABLES
+//---
+
+$halfWidth: 47%;
+$required: #ff0000;
+$border-style: 1px solid $dove-gray;
+$input-padding: 11px 12px;
+$input-color: $dusty-gray;
+
+//---
+// !DEFAULTS
+//---
+
+ 	label {
+	 	font-weight: 600;
+	 	vertical-align: middle;
+ 	}
+ 	
+ 	textarea {
+ 		overflow: auto;
+	 	vertical-align: top;
+ 	}
+ 	
+ 	input:not([type="submit"]):not([type="file"]):not([type="checkbox"]):not([type="radio"]):not(.search-input),
+ 	textarea {
+		border: $border-style;
+		color: $input-color;
+		margin: 0;
+		padding: $input-padding;
+		vertical-align: middle;
+		width: 100%;
+	}
+	
+	input::-webkit-input-placeholder {
+		color: rgba($input-color, 1);
+	}
+	  
+	input::-moz-placeholder {
+		color: rgba($input-color, 1);
+	}
+	
+	input:-moz-placeholder { 
+		color: rgba($input-color, 1);
+	}
+	
+	input:-ms-input-placeholder { 
+		color: rgba($input-color, 1);
+	}
+ 	
+ 	input[type="submit"]:not(.search-btn) {
+	 	@include button-style;
+ 	}
+ 	
+ 	input[type="file"] {
+	 	border: 0;
+	 	padding: 0;
+ 	}
+ 	
+ 	.hide-labels {
+   	
+   	label {
+     	display: none;
+   	}
+   	
+ 	}
+ 
+//---
+// LAYOUT 
+//---
+  
+  .gform_wrapper {
+    margin-bottom: em($gutter);
+  }
+  
+  .gform_fields,
+  .ginput_container {
+    @include pie-clearfix;
+  }
+    
+    .main .gfield {
+      margin-bottom: em($margin-bottom);
+      margin-top: 0;
+      padding-left: 0;
+      
+      &:before {
+        display: none;
+      }
+    }
+    
+    @include smartphone {
+    
+      .gf_left_half,
+      .gf_right_half,
+      .name_first,
+      .name_last {
+        float: left;
+        width: $halfWidth;
+        
+        + li:not(.gf_left_half):not(.gf_right_half) {
+          clear: both;
+        }
+      }
+      
+      .gf_right_half,
+      .name_last {
+        margin-left: 6%;
+      }
+  
+    }
+    
+    @media screen and (max-width: 649px) {
+      
+      .name_first {
+        display: block;
+        margin-bottom: em(15);
+      }
+      
+    }
+
+ //---
+ // FIXES
+ // IN CERTAIN CASES EXTRA MARKUP IS GETTING ADDED TO THE FOOTER. 
+ // THIS RULES UNDO THE UNWANTED LAYOUT CHANGES
+ //---
+ 
+ .gform_footer {
+   
+   br {
+     display: none;
+   }
+   
+   p {
+     margin-bottom: 0;
+   }
+   
+ }
+ 	
+//---
+// SELECT STYLE
+//---
+
+	.selector {
+		border: $border-style;
+		overflow: hidden;
+		position: relative;
+		z-index: 1;
+		vertical-align: middle;
+		width: 100%;
+		
+		&:before {
+			content: '\f0dc';
+			position: absolute;
+				right: em(10);
+				top: em(10);
+			@include fa;
+		}
+	
+		&.multi-select {
+		
+			&:before {
+				display: none;
+			}
+			
+			select {
+				padding: 0;
+				width: 100%;
+			}
+        
+        option {
+          padding: em(10);
+          
+          &:nth-of-type(even) {
+            background-color: $silver;
+          }
+        }
+		}
+	
+		select {
+			-webkit-appearance: none;
+			border: none;
+			box-shadow: none;
+			background: none transparent; 
+			color: $input-color;
+			font-size: em(14);
+			font-weight: 300;
+			padding: $input-padding;
+			position: relative;
+			z-index: 2;
+			width: 130%;
+			
+			&:focus {
+				border: none;
+				outline: none;
+			}
+		}
+	}
+ 	
+//---
+// UNIFORM
+//---	
+	
+	.uploader {
+		background-image: none;
+		background: #fff;
+		border: $border-style; 
+		cursor: pointer;
+		display: inline-block;
+		height: 37px;
+		overflow: hidden; 
+		position: relative;
+		vertical-align: middle;
+		width: $halfWidth;
+		zoom: 1;
+	}
+	
+	.uploader, 
+	.uploader * {
+	  margin: 0;
+	  padding: 0; 
+	}
+	
+	.uploader:focus {
+	    outline: 0; 
+	}
+	
+	.highContrastDetect {
+	  width: 0px;
+	  height: 0px; 
+	}
+	
+		.uploader span.action {
+      background-image: none;
+      background: $dove-gray;
+      color: #fff;
+      cursor: pointer; 
+      display: inline;
+      float: right;
+      font-size: 11px;
+      font-weight: bold; 
+      height: 37px;
+      line-height: 37px;
+      overflow: hidden;
+      text-align: center;
+      transition: all .3s;
+      width: 82px;
+		}
+		
+		.uploader span.action:hover {
+			background: #666; 
+		}
+		
+		
+		.uploader span.filename {
+			color: $input-color;
+			cursor: default;
+			display: block;
+			float: left;
+			font-size: 11px; 
+			height: 37px;
+			line-height: 37px;
+			margin: 2px 0 2px 2px;
+			overflow: hidden;
+			padding: 0 10px;
+			text-overflow: ellipsis;
+			white-space: nowrap;
+			width: auto; 
+		}
+	  
+		.uploader input {
+      background: none;
+      border: none;
+      cursor: pointer;
+      float: right;
+      height: 100%;
+      opacity: 0;
+      position: absolute;
+        top: 0;
+        right: 0;
+      width: 100%; 
+		}
+    
+    .uploader.disabled span.action, 
+		.uploader.disabled.active span.action {
+			color: $primary-color; 
+		}
+	
+		.uploader.disabled span.filename, 
+		.uploader.disabled.active span.filename {
+			border-color: $dove-gray;
+			color: $primary-color; 
+		}
+
+	input.uniform-input, 
+	input.uniform-input:focus {
+		background-color: #fff; 
+	}
+
+//---
+// !GRAVITY FORMS
+//---
+ 
+	// RESET INHERITED CSS PROPERTIES FROM UL LIST STYLES
+	.main {
+  	.gform_fields,
+  	.gfield_radio,
+  	.gfield_checkbox {
+  		margin: 0;
+  		padding: 0;	
+  			
+  		li {  		
+    	  padding-left: 0;
+    	  
+    		&:before {
+    			display: none;
+    		}
+      }
+  	}
+  	
+  	.gfield_radio,
+  	.gfield_checkbox {
+    	
+    	input {
+      	margin-right: 10px;
+    	}
+    	
+  	}
+	}
+	
+	// STANDARD GRAVITY FORMS FIELDS
+	.gform_description {
+		display: block;
+		margin-bottom: 30px;
+	}
+		
+	.gfield_description {
+		clear: both;
+		font-size: 85%;
+	}
+	
+	.gfield_required {
+		color: $required;
+		margin-left: 3px;
+	}
+	
+	.gfield_contains_required:not(.gfield_error) {
+  	
+  	.ginput_container:not(.ginput_complex) {
+    	position: relative;
+    	
+    	&:before {
+      	color: $required;
+      	content: '*';
+      	position: absolute;
+      	  top: 10px;
+      	  right: 10px;
+    	}
+  	}
+  	
+  	.ginput_complex > * {
+      position: relative;
+      
+    	&:before {
+      	color: $required;
+      	content: '*';
+      	position: absolute;
+      	  top: 15px;
+      	  right: 15px;
+    	}
+    }
+  	
+	}
+		
+	// VALIDATION ERROR STYLES
+	
+	.validation_error,
+	.validation_message,
+	.gfield_error {
+		color: $required;
+		margin-top: 5px;
+		
+		input:not([type="submit"]):not([type="file"]):not([type="checkbox"]):not([type="radio"]),
+		textarea,
+		.selector,
+		.selector select {
+			border-color: $required;
+			color: $required;
+		}
+		
+		input::-webkit-input-placeholder {
+			color: rgba($required, 1);
+		}
+		  
+		input::-moz-placeholder {
+			color: rgba($required, 1);
+		}
+		
+		input:-moz-placeholder { 
+			color: rgba($required, 1);
+		}
+		
+		input:-ms-input-placeholder { 
+			color: rgba($required, 1);
+		}
+		
+	}
+	
+	.gfield_error {
+		position: relative;
+		
+		&:after {
+			content: '\f071';
+			position: absolute;
+				top: em(12);
+				right: em(10);
+			@include fa;
+		}
+	}	
+
+	// RADIO BUTTONS & CHECKBOXES
+	.gfield_radio,
+	.gfield_checkbox {
+		
+		label {
+			display: inline;
+		}
+	}
+		
+	// PROGRESS BAR		
+	.gf_progressbar {
+		@include border-radius(3px);
+		background: $silver;
+		padding: 5px;
+	}		
+
+	.gf_progressbar_percentage {
+		@include border-radius(3px);
+		background: $primary-color;
+		color: #fff;
+		font-weight: 600;
+		padding: 0 5px;
+		text-align: center;
+	}
+	
+	// LEFT ALIGNED LABELS
+	
+	.left_label {
+	
+		.gfield {		
+			&:after {
+				visibility: hidden;
+				display: block;
+				font-size: 0;
+				content: " ";
+				clear: both;
+				height: 0;
+			}
+		}
+		
+		.gfield_label,
+		.ginput_container {
+			float: left;
+			width: 80%;
+		}
+		
+		.gfield_label {
+			width: 20%;
+		}
+		
+		.gfield_description {
+			margin-left: 20%; /* This should be the width value of the above: .left_label .gfield_label */
+		}
+		
+		.radio,
+		.checker {
+			input {
+				width: auto;
+			}
+		}
+
+	}
+	.content .left_label > li {
+		margin-top: 20px;
+	}
+	
+	// TOP ALIGNED LABELS
+	.top_label {
+		
+		.ginput_complex {
+			clear: both;
+		
+			input {
+				width: 100%;
+			}
+			
+		}
+			
+		.radio,
+		.checker {
+		  
+		  input {
+				width: auto;
+			}
+		}
+		
+		textarea {
+			width: 100%;
+		}
+
+	}
+
+//---
+// !GRAVITY FORMS WIDGET
+//---
+	
+	.gform_widget {
+		
+		.top_label input,
+		div.uploader {
+			width: 100%;
+		}
+		
+		.top_label input[type="submit"] {
+			width: auto;
+		}
+		
+		input, select {
+			min-width: 0;
+		}
+		
+		
+		div.uploader span.action {
+			position: absolute;
+				right: 0;
+				top: 0;
+		}
+	}

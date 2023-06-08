@@ -1,0 +1,280 @@
+;@import 'masthead';
+
+/*---------------------------------------------------------
+ * !LAYOUT
+ *---------------------------------------------------------*/
+ 	
+ 	.content {
+	 	padding: 0;
+	 	width: 100%;
+ 	}
+ 	
+ 	.has-callouts {
+   	
+   	.content > .inner {
+     	@include flexbox;
+      @include flex-direction(column);
+      
+      @include smartphone {
+        @include flex-direction(row);
+      }
+       
+      > div:first-child {
+        
+        @include smartphone {
+          width: 65%;  
+        }
+        
+        @include medium {
+          width: 75%;
+        }
+      }
+      
+   	}
+   	
+ 	}
+ 	
+    .callouts {
+      
+      @include smartphone {
+        padding-left: em(50);
+        width: 35%;
+      }
+      
+      @include medium {
+        width: 25%;
+      }
+    }
+    
+    @media all and ( max-width : 800px ) {
+	    
+	    .main > .inner {
+		    display: table;
+		    caption-side: bottom;
+		    table-layout: fixed;
+		    
+		    > .callouts {
+			    display: table-caption;
+			    float: none;
+			    margin: 50px auto 0;
+		    }
+		    
+		    > .content {
+			    display: table-cell;
+		    }
+	    }
+    }
+ 	
+/*---------------------------------------------------------
+ * !CONTENT
+ *---------------------------------------------------------*/
+ 
+ 	.main {
+	 	color: $mine-shaft;
+	 	min-height: 800px;
+	 	padding: em(30) 0 em(30);
+	 	
+	 	@include medium {
+  	 		padding-top: em(60);
+	 	}
+	 	
+	 	img {
+		 	height: auto;
+		 	max-width: 100%;
+	 	}
+ 	}
+
+
+/*---------------------------------------------------------
+ * !ACCORDIONS
+ *---------------------------------------------------------*/
+ 	
+ 	.accordions {
+	 	margin-bottom: em($margin-bottom)
+ 	}
+ 	
+		.accordion {
+			background-color: $dove-gray;
+			margin-bottom: em(10);
+			padding: em(10);
+			position: relative;
+		}
+		
+		.accordion-label {
+			color: #fff;
+			display: block;
+			font-size: em(18);
+			font-weight: 700;
+			position: relative;
+			text-decoration: none;
+			
+			&:after {
+				content: '+';
+				position: absolute;
+					top: 50%;
+					right: em(10, 18);
+				@include transform(translateY(-50%));
+			}
+		
+			&.open {
+			
+				&:after {
+					content: '-';
+				}
+			}
+		
+			&.open,
+			&:hover {
+	
+			}
+		}
+		
+		.accordion-content {
+			padding-top: em(10);
+			position: relative;
+			
+			li {
+				color: white;
+			}
+		}
+	
+/*---------------------------------------------------------
+ * !TABS
+ *---------------------------------------------------------*/
+ 	
+	 	
+	.tabs {
+		overflow: hidden;
+	}
+	
+		.tab {
+			margin-bottom: em(40);
+			
+			&:first-child {
+			
+				.tab-label {
+					margin-left: 0;
+				}
+			}
+		
+			&.active,
+			&:hover {
+			
+				.tab-label {
+					background-color: $dove-gray;
+					color: #fff;
+					padding-bottom: em(5);        
+				}
+			
+			}
+		
+			.tab-label {
+				border-bottom: none;
+				border-radius: em(3) em(3) 0 0;  
+				color: $primary-color;
+				font-weight: 700;
+				margin-left: 5px;
+				padding: 10px;
+				position: relative;
+					z-index: 10;
+				text-decoration: none;
+			}
+			
+			.tab-content {
+				background-color: $dove-gray;
+				padding: em(20);
+				top: em(32); 
+			}
+		
+		}
+
+/*---------------------------------------------------------
+ * !MULTI COLUMN LIST
+ *---------------------------------------------------------*/
+ 
+ 	@media screen and (max-width: 649px) {
+	 	
+	 	.split-list {
+	 	
+		 	.two-column,
+		 	.three-column {
+	  	 	
+		  	 	&:not(:last-child) {
+		    	 	margin-bottom: 0;
+		  	 	}
+	  	 	
+		 	}
+	 	
+	 	}
+	 	
+ 	}
+ 	
+ 	@include smartphone {
+
+	 	.split-list {
+		 	clear: both;
+		 	overflow: hidden;
+
+	 		.two-column {
+		 		float: left;
+		 		width: 50%;
+		 		
+		 		+ .two-column {
+			 		padding-left: em(20);
+		 		}
+	 		}
+	 		
+	 		.three-column {
+		 		float: left;
+		 		width: 33.3333333333333%;
+		 		
+		 		+ .three-column {
+			 		padding-left: em(20);
+		 		}
+	 		}
+	 	}
+ 	
+ 	}
+
+/*---------------------------------------------------------
+ * CAREERS
+ *---------------------------------------------------------*/
+ 	
+ 	.careers {
+	 	
+	 	hr {
+			
+			margin-top: $gutter;
+			
+			&:first-child {
+				display: none;
+			}
+	 	}
+ 	}
+ 	
+ 	.career {
+	 	
+	 	.career-title {
+		 	font-weight: 400;
+		 	padding-bottom: 0;
+	 	}
+	 	
+	 	.description {
+	 	
+	 	}
+ 	} 
+ 	
+ @import 'callouts';
+
+ /*---------------------------------------------------------
+ * COOKIE NOTIFICATION
+ *---------------------------------------------------------*/
+
+ .cookie-notification {
+	 max-height: 100%;
+ }
+
+ .cookie-notification__inner {
+	 margin: 20rem auto;
+	 background-color: #fff;
+ }

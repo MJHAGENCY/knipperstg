@@ -1,0 +1,71 @@
+@import "compass";
+@import "config/normalize";
+@import "config/mixins";
+
+//---
+// BASE ELEMENTS
+//---
+
+	* { 
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;  
+		box-sizing: border-box; 
+	}
+
+	a,
+	input[type="submit"],
+	input[type="button"],
+	button {
+		color: inherit;
+		text-decoration: none;
+		@include transition(all .2s ease 0s);
+	}
+	
+	em {
+		font-style: italic;
+		font-weight: inherit;
+	}
+
+	img {
+		display: block;
+		height: auto;
+		max-width: 100%;
+	}
+	
+	strong {
+		font-style: inherit;
+		font-weight: 700;
+	}
+	
+	input:not([type="checkbox"]):not([type="radio"]) {
+    -webkit-appearance: none;
+    border-radius: 0;
+	}
+	
+	sub,
+	sup {
+		font-size: 80%;
+		height: 0;
+		line-height: 1 !important;
+		vertical-align: baseline;
+		position: relative;
+	}
+	
+	sub {
+		top: 0.5ex;
+	}
+	
+	sup {
+		bottom: 0.7ex;
+	}
+	
+	small {
+  	font-size: 10px;
+	}
+	
+	pre {
+    font-family: Menlo, Courier New, monospace;
+    font-size: 0.8125em;
+    line-height: 1.84615em;
+    margin: 0 0 30px 30px;
+	}

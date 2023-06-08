@@ -1,0 +1,746 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flare\n"
+"POT-Creation-Date: 2017-07-24 11:46+0545\n"
+"PO-Revision-Date: 2017-07-24 11:47+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:758
+#: assets/breadcrumbs/breadcrumbs.php:787
+#: assets/breadcrumbs/breadcrumbs.php:814
+#: assets/breadcrumbs/breadcrumbs.php:841
+#: assets/breadcrumbs/breadcrumbs.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:759
+#: assets/breadcrumbs/breadcrumbs.php:815
+#: assets/breadcrumbs/breadcrumbs.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:760
+#: assets/breadcrumbs/breadcrumbs.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: assets/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:51 comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:81
+msgid "Primary"
+msgstr ""
+
+#: functions.php:82
+msgid "Top Menu"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:16
+#: inc/customizer/home-callback/callback-section.php:13
+#: inc/customizer/home-service/service-panel.php:12
+msgid "View More"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:22
+msgid "Home Main Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:33
+msgid "Enable Feature Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:35
+msgid "Enable \"Feature slider\" on checked"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:49
+msgid "Number Of Slider"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:53
+#: inc/customizer/home-testimonial/testimonial-panel.php:72
+#: inc/customizer/theme-options/footer.php:30
+msgid "1"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:54
+#: inc/customizer/home-testimonial/testimonial-panel.php:73
+#: inc/customizer/theme-options/footer.php:31
+msgid "2"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:55
+#: inc/customizer/home-testimonial/testimonial-panel.php:74
+msgid "3"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:71
+#, php-format
+msgid "Select Page For Slide %s"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:87
+msgid "Single Slider- Number Of Words"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:88
+#: inc/customizer/home-service/service-panel.php:63
+#: inc/customizer/home-testimonial/testimonial-panel.php:89
+msgid "If you do not have selected from - Custom"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:103
+msgid "Enable Arrow"
+msgstr ""
+
+#: inc/customizer/featured-slider/slider-panel.php:116
+#: inc/customizer/home-callback/callback-section.php:77
+msgid "Enable Button"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:10
+msgid "FROM OUR BLOG"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:13
+msgid "Browse more"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:19
+msgid "Home blog Section"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:28
+msgid "Enable Blog"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:29
+msgid "Enable \"Blog Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:44
+#: inc/customizer/home-service/service-panel.php:48
+#: inc/customizer/home-testimonial/testimonial-panel.php:52
+msgid "Main Title"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:60
+#: inc/customizer/home-callback/callback-section.php:61
+msgid "Number Of Words"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:61
+msgid ""
+"Give number of words you wish to be appear on home page blog section sticky "
+"post/ feature post"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:77
+msgid "Select Category For Blog"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:78
+msgid "Blog will only displayed from this category"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:93
+msgid "Browse All Button Text"
+msgstr ""
+
+#: inc/customizer/home-blog/home-blog-panel.php:107
+msgid "Browse All Button Link"
+msgstr ""
+
+#: inc/customizer/home-callback/callback-section.php:19
+msgid "Home Callback Section"
+msgstr ""
+
+#: inc/customizer/home-callback/callback-section.php:29
+msgid "Enable callback Section"
+msgstr ""
+
+#: inc/customizer/home-callback/callback-section.php:30
+msgid "Enable \"callback Section\" on checked"
+msgstr ""
+
+#: inc/customizer/home-callback/callback-section.php:46
+msgid "Select Page For callback Section"
+msgstr ""
+
+#: inc/customizer/home-callback/callback-section.php:62
+msgid ""
+"Give number of words you wish to be appear on home page callback section"
+msgstr ""
+
+#: inc/customizer/home-service/service-panel.php:10
+msgid "OUR SERVICES"
+msgstr ""
+
+#: inc/customizer/home-service/service-panel.php:23
+msgid "Home Service Section"
+msgstr ""
+
+#: inc/customizer/home-service/service-panel.php:33
+msgid "Enable Service"
+msgstr ""
+
+#: inc/customizer/home-service/service-panel.php:62
+msgid "Number Of Words in Single Column Content"
+msgstr ""
+
+#: inc/customizer/home-service/service-panel.php:80
+#, php-format
+msgid "Icon %s"
+msgstr ""
+
+#: inc/customizer/home-service/service-panel.php:84
+#, php-format
+msgid "Use font awesome icon: Eg: %1$s. %2$s See more here %3$s"
+msgstr ""
+
+#: inc/customizer/home-service/service-panel.php:99
+#, php-format
+msgid "Select Page For Service %s"
+msgstr ""
+
+#: inc/customizer/home-testimonial/testimonial-panel.php:10
+msgid "VOICE OF CLIENTS"
+msgstr ""
+
+#: inc/customizer/home-testimonial/testimonial-panel.php:24
+msgid "Home Testimonial Section"
+msgstr ""
+
+#: inc/customizer/home-testimonial/testimonial-panel.php:34
+msgid "Enable Testimonial"
+msgstr ""
+
+#: inc/customizer/home-testimonial/testimonial-panel.php:35
+msgid "Enable \"Testimonial selection\" on checked"
+msgstr ""
+
+#: inc/customizer/home-testimonial/testimonial-panel.php:67
+msgid "Number Of Testimonial/s"
+msgstr ""
+
+#: inc/customizer/home-testimonial/testimonial-panel.php:68
+msgid "Choose number of Testimonial to be displayed"
+msgstr ""
+
+#: inc/customizer/home-testimonial/testimonial-panel.php:88
+msgid "Single Testimonial- Number Of Words"
+msgstr ""
+
+#: inc/customizer/home-testimonial/testimonial-panel.php:107
+#, php-format
+msgid "Select Page For Testimonial %s"
+msgstr ""
+
+#: inc/customizer/theme-options/back-to-top.php:13
+msgid "Back To Top Options"
+msgstr ""
+
+#: inc/customizer/theme-options/back-to-top.php:23
+msgid "Enable Back To Top"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:13
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:23
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:9
+msgid "Copyright &copy; All right reserved"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:15
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:25
+msgid "Number of Sidebars In Footer Area"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:29
+msgid "Disable footer sidebar area"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:47
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:22
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:34
+msgid "Enable Static Front Page"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:35
+msgid ""
+"If you disable this the static page will be disappera form the home page and "
+"other section from customizer will reamin as it is"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:49
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:50
+msgid "Layout for all archives, single posts and pages"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:54
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:55
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:56
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:69
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:73
+msgid "Excerpt Only"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:74
+msgid "Thumbnail and Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:87
+msgid "Archive Image Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:91
+#: inc/customizer/theme-options/layout-options.php:126
+#: inc/post-meta/layout-meta.php:52
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:92
+#: inc/customizer/theme-options/layout-options.php:127
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:95
+msgid ""
+"This option only work if you have selected \"Thumbnail and Excerpt\" or "
+"\"Thumbnail and Full Post\" in Archive Layout options"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:105
+msgid "Number Of Words For Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:106
+msgid "This will controll the excerpt length on listing page"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:122
+msgid "Alignment Of Image In Single Post/Page"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:128
+#: inc/post-meta/layout-meta.php:60
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:129
+msgid "No image"
+msgstr ""
+
+#: inc/customizer/theme-options/layout-options.php:132
+msgid "Please note that this setting can be override from individual post/page"
+msgstr ""
+
+#: inc/customizer/theme-options/option-panel.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-options.php:16
+msgid "Top Header Options"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-options.php:26
+msgid "Enable Top Header Section"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-options.php:39
+msgid "Contact Email"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-options.php:52
+msgid "Contact Location"
+msgstr ""
+
+#: inc/customizer/theme-options/top-header-options.php:65
+msgid "Contact Telephone Number"
+msgstr ""
+
+#: inc/frameworks/salient-customizer/inc/custom-control/salient-category-control.php:34
+#: inc/frameworks/salient-customizer/inc/custom-control/salient-post-dropdown-control.php:48
+#: inc/frameworks/salient-customizer/inc/custom-control/salient-tags-dropdown-control.php:46
+#: inc/frameworks/salient-customizer/inc/custom-control/salient-user-dropdown-control.php:43
+msgid "Select"
+msgstr ""
+
+#: inc/function/inner-head.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/function/inner-head.php:28 search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/function/inner-head.php:31
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/hooks/footer.php:137
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: inc/hooks/header.php:174
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/homepage-about.php:18
+msgid "Title"
+msgstr ""
+
+#: inc/hooks/homepage-about.php:19 inc/hooks/homepage-service.php:19
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry's standard dummy text."
+msgstr ""
+
+#: inc/hooks/homepage-about.php:21 inc/hooks/homepage-about.php:69
+#: inc/hooks/homepage-service.php:22 inc/hooks/homepage-service.php:79
+msgid "Know More"
+msgstr ""
+
+#: inc/hooks/homepage-blog.php:86
+msgid "Read More"
+msgstr ""
+
+#: inc/hooks/homepage-service.php:18
+msgid "Clean Designs"
+msgstr ""
+
+#: inc/hooks/homepage-slider.php:15
+msgid "Welcome to The Digital Media"
+msgstr ""
+
+#: inc/hooks/homepage-slider.php:16
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry's standard dummy text ever since the "
+"1500s, when an unknown printer took a galley of type"
+msgstr ""
+
+#: inc/hooks/homepage-testimonial.php:17
+msgid "John Doe"
+msgstr ""
+
+#: inc/hooks/homepage-testimonial.php:18
+msgid ""
+"The set doesn't moved. Deep don't fru it fowl gathering heaven days moving "
+"creeping under from i air. Set it fifth Meat was darkness. every bring in it."
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:24
+msgid "Layout options"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:56
+msgid "Right "
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:64
+msgid "No Image"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:84
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:109
+msgid "You can set up the sidebar content"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:109
+msgid "here"
+msgstr ""
+
+#: inc/post-meta/layout-meta.php:113
+msgid "Featured Image Alignment"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:23
+msgid "Footer Column One"
+msgstr ""
+
+#: inc/sidebar-widget-init.php:25 inc/sidebar-widget-init.php:35
+msgid "Displays items on footer section."
+msgstr ""
+
+#: inc/sidebar-widget-init.php:33
+msgid "Footer Column Two"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "On %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:73 template-parts/content-page.php:47
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: single.php:22
+msgid "NEXT POST"
+msgstr ""
+
+#: single.php:23
+msgid "Next post:"
+msgstr ""
+
+#: single.php:25
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: single.php:26
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:36 template-parts/content-single.php:34
+#: template-parts/content.php:82
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:39 template-parts/content.php:59
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: trt-customize-pro/flare/class-customize.php:77
+msgid "Flare Pro - Buy Now"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Flare"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.salientthemes.com/product/flare/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Flare, a beautiful as well as professional-looking WordPress business theme, "
+"looks great on any device. It comes with many customization options and "
+"powerful features under the hood. However, it is very easy to configure the "
+"site yourself; you won’t need to write a single line of code. Some of the "
+"notable features are post slider, social icons, custom logo, customizer API, "
+"translation ready, etc. Preview :  http://preview.salientthemes.com/flare "
+"Supports: http://www.salientthemes.com/forums/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Salient Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://salientthemes.com"
+msgstr ""

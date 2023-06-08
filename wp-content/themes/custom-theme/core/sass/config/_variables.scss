@@ -1,0 +1,49 @@
+//---
+// !VARIABLES
+//---
+	
+	//! TYPEFACES
+	$source-sans-pro: 'Source Sans Pro' sans-serif;
+	// $openSans : 'Open Sans', sans-serif;
+	$fontAwesome: 'FontAwesome';
+	
+	//! SIZES
+	$h1: 42;
+	$h2: 30;
+	$h3: 24;
+	$h4: 21;
+	$h5: 18;
+	$h6: 16;
+	$p: 18;
+	
+	//! LAYOUT
+	$width-center: 1100;
+	$gutter: 50;
+	$margin-bottom: 30;
+	$innerPadding: 42;
+	
+	//! GRAYS
+	$mine-shaft: #333;
+	$dove-gray: #666;
+	$dusty-gray: #999;
+	$silver: #ccc;
+	
+	//! DEFINTE PRIMARY / SECONDARY VARIABLES
+	$primary-color: $dusty-gray;
+	$secondary-color: $silver;
+	$primary-font: $source-sans-pro;
+	
+	//! TRANSPARENTS
+	$transGray75: rgba(0, 0, 0, .75);
+	$transGray50: rgba(0, 0, 0, .5);
+	$transGray25: rgba(0, 0, 0, .25);
+	
+	//! COMMON FONTAWESOME ICONS FOR PSEUDO CLASSES
+	$arrowRight: '\f105';
+	$arrowUp: '\f106';
+	$arrowDown: '\f107';
+	$chevronUp: '\f077';
+	$chevronDown: '\f078';
+	$chevronRight: '\f054';
+	$chevronLeft: '\f053';
+	$play: '\f01d';

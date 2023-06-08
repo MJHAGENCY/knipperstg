@@ -1,0 +1,28 @@
+
+.tabs {
+	position: relative;
+}
+
+	.tab {
+		float: left;
+	}
+	
+		.tab-label {
+			display: inline-block;
+		}
+		
+		.tab-content {
+				-webkit-box-sizing: border-box;
+				-moz-box-sizing: border-box;
+				-ms-box-sizing: border-box;
+			box-sizing: border-box;
+			display: none;
+			position: absolute;
+				top: 0;
+				left: 0;
+			width: 100%; 
+		}
+		
+	.tab.active .tab-content {
+		display: block;
+	}

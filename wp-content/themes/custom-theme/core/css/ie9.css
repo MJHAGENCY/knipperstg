@@ -1,0 +1,11 @@
+
+.slide-nav {
+  display: inline-block;
+  height: 70px;
+  margin-left: -4px;
+  padding-top: 15px !important;
+}
+
+#homeSlidesNav .flex-container:after {
+  right: -624px !important;
+}
